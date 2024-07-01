@@ -1,0 +1,7 @@
+payload:
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
+    - +.msocsp.com
+    - www.microsoft.com

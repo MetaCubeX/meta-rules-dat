@@ -1,0 +1,7 @@
+payload:
+    - DOMAIN-SUFFIX,fastly.com
+    - DOMAIN-SUFFIX,fastly.net
+    - DOMAIN-SUFFIX,fastlylabs.com
+    - DOMAIN-SUFFIX,fastlylb.net
+    - DOMAIN-SUFFIX,fastly-terrarium.com
+    - DOMAIN-SUFFIX,zencdn.net

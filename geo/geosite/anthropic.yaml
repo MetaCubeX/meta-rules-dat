@@ -1,0 +1,4 @@
+payload:
+    - servd-anthropic-website.b-cdn.net
+    - +.anthropic.com
+    - +.claude.ai

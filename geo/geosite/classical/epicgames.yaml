@@ -1,0 +1,18 @@
+payload:
+    - DOMAIN-SUFFIX,battlebreakers.com
+    - DOMAIN-SUFFIX,eac-cdn.com
+    - DOMAIN-SUFFIX,easy.ac
+    - DOMAIN-SUFFIX,easyanticheat.net
+    - DOMAIN-SUFFIX,epicgames.com
+    - DOMAIN-SUFFIX,epicgames.dev
+    - DOMAIN-SUFFIX,fortnite.com
+    - DOMAIN-SUFFIX,paragon.com
+    - DOMAIN-SUFFIX,playparagon.com
+    - DOMAIN-SUFFIX,roborecall.com
+    - DOMAIN-SUFFIX,shadowcomplex.com
+    - DOMAIN-SUFFIX,spyjinx.com
+    - DOMAIN-SUFFIX,unrealengine.com
+    - DOMAIN-SUFFIX,unrealtournament.com
+    - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
+    - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+    - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
