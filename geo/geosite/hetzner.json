@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hetzner.cloud",
+        "hetzner.com",
+        "hetzner.de",
+        "your-server.de"
+      ]
+    }
+  ]
+}

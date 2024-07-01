@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ntp.se",
+        "clock.isc.org",
+        "ntp.fiord.ru",
+        "ntp.nat.ms",
+        "ntp.nic.cz",
+        "ntp.nict.jp",
+        "ntp.ripe.net",
+        "ntp.ufe.cz",
+        "pool.ntp.org",
+        "time.cloudflare.com",
+        "time.nrc.ca",
+        "time.windows.com",
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn"
+      ],
+      "domain_regex": [
+        "^time(.euro)?.apple.com$",
+        "^time([1-5])?\\.facebook\\.com$",
+        "^time([1-4])?.google.com$",
+        "^((((ut1-wwv)|(ntp\\-(b|d|wwv))|(time(\\-(([a-e]\\-(g|b))|([a-e]\\-wwv)))?))\\.nist\\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\\.colorado\\.edu)$",
+        "^ntp[0-7]\\.ntp-servers\\.net$",
+        "^ntp([1-7])?\\.aliyun\\.com$",
+        "^ntp([1-5])?\\.tencent\\.com$"
+      ]
+    }
+  ]
+}

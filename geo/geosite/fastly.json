@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fastly.com",
+        "fastly.net",
+        "fastlylabs.com",
+        "fastlylb.net",
+        "fastly-terrarium.com",
+        "zencdn.net"
+      ]
+    }
+  ]
+}

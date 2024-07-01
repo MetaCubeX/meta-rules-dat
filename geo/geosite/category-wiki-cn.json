@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fgo.wiki",
+        "huijistatic.com",
+        "huijiwiki.com",
+        "mbalib.com",
+        "moegirl.org",
+        "moegirl.org.cn"
+      ]
+    }
+  ]
+}

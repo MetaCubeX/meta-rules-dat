@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "reddit.map.fastly.net",
+      "domain_suffix": [
+        "redd.it",
+        "reddit.com",
+        "reddithelp.com",
+        "redditmail.com",
+        "redditmedia.com",
+        "redditstatic.com",
+        "reddit.app.link"
+      ]
+    }
+  ]
+}

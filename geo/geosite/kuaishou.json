@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com"
+      ],
+      "domain_suffix": [
+        "gifshow.com",
+        "ksapisrv.com",
+        "kuaishou.com",
+        "yximgs.com",
+        "kwaizt.com",
+        "kuaishouzt.com"
+      ]
+    }
+  ]
+}

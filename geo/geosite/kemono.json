@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cooer.su",
+        "coomer.party",
+        "kemono.party",
+        "kemono.su"
+      ]
+    }
+  ]
+}

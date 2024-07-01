@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "drweb.by",
+        "drweb.cn",
+        "drweb.com",
+        "drweb.fr",
+        "drweb.kz",
+        "drweb.uz",
+        "drweb-av.de",
+        "drweb-av.es",
+        "drweb-av.it",
+        "drweb-av.pl",
+        "drweb.co.jp"
+      ]
+    }
+  ]
+}
