@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lysol.cn",
+        "lysol.com.cn"
+      ]
+    }
+  ]
+}

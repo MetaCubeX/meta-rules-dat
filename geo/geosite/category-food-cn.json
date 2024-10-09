@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "3songshu.com",
+        "haidilao.com",
+        "lkcoffee.com",
+        "luckincoffeecdn.com",
+        "yyds.co",
+        "517lppz.com",
+        "lppz.com",
+        "lppzimg.com",
+        "heytea.com"
+      ]
+    }
+  ]
+}

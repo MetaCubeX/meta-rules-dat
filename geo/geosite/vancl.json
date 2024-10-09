@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "vancl.com",
+        "vanclimg.com",
+        "vcimg.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "o33249.ingest.sentry.io",
+        "openaicom.imgix.net"
+      ]
+    }
+  ]
+}

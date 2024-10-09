@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "fontshop-prod-responsive-images.s3.amazonaws.com",
+      "domain_suffix": [
+        "monotype.com",
+        "monotypeimaging.com",
+        "bitstream.com",
+        "itcfonts.com",
+        "fontexplorerx.com",
+        "fonts.com",
+        "fonts.net",
+        "fontbook.com",
+        "fontshop.com",
+        "fstopimages.com",
+        "linotype.com",
+        "myfonts.com",
+        "myfonts.net"
+      ]
+    }
+  ]
+}

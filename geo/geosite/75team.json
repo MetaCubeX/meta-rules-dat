@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "75.team",
+        "75team.com",
+        "baomitu.com"
+      ]
+    }
+  ]
+}

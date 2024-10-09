@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "alibaba.ir",
+        "flightio.com",
+        "mrbilit.com",
+        "tapsi.ir"
+      ]
+    }
+  ]
+}

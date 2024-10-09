@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bybit-exchange.github.io",
+        "bybit.ada.support"
+      ],
+      "domain_suffix": [
+        "bybit.com",
+        "bycsi.com",
+        "bytick.com",
+        "byapis.com",
+        "bycbe.com",
+        "bymj.io"
+      ]
+    }
+  ]
+}

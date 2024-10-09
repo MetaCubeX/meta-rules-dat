@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "flyme.cn",
+        "meizu.cn",
+        "meizu.com",
+        "mzres.com"
+      ]
+    }
+  ]
+}
