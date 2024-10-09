@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN,lastfm.freetls.fastly.net
+    - DOMAIN-SUFFIX,last.fm

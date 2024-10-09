@@ -1,0 +1,11 @@
+payload:
+    - DOMAIN-SUFFIX,gifshow.com
+    - DOMAIN-SUFFIX,inkwai.com
+    - DOMAIN-SUFFIX,ksapisrv.com
+    - DOMAIN-SUFFIX,kuaishou.com
+    - DOMAIN-SUFFIX,kwaizt.com
+    - DOMAIN-SUFFIX,kuaishouzt.com
+    - DOMAIN-SUFFIX,kwimgs.com
+    - DOMAIN-SUFFIX,yximgs.com
+    - DOMAIN,log-sdk.gifshow.com
+    - DOMAIN,wlog.kuaishou.com

@@ -1,0 +1,15 @@
+payload:
+    - +.digicert-cn.com
+    - +.digicert-validation.com
+    - +.digicert.com
+    - +.digitalcertvalidation.com
+    - +.freessl.com
+    - +.geotrust.com
+    - +.rapidssl.com
+    - +.thawte.com
+    - +.thawte.de
+    - +.thawte.fr
+    - +.quovadisglobal.com
+    - +.public-trust.com
+    - +.dcocsp.cn
+    - +.digicert.cn

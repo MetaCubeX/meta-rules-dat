@@ -1,0 +1,11 @@
+payload:
+    - DOMAIN,connect.rom.miui.com
+    - DOMAIN-SUFFIX,msftconnecttest.com
+    - DOMAIN-SUFFIX,msftncsi.com
+    - DOMAIN-SUFFIX,ping.archlinux.org
+    - DOMAIN-SUFFIX,captive.apple.com
+    - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+    - DOMAIN-SUFFIX,cp.cloudflare.com
+    - DOMAIN-SUFFIX,network-test.debian.org
+    - DOMAIN-SUFFIX,detectportal.firefox.com
+    - DOMAIN-SUFFIX,networkcheck.kde.org
