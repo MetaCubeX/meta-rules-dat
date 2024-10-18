@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "ip_cidr": "2407:cdc0:efff::/48"
+    }
+  ]
+}

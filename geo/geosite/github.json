@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "github-cloud.s3.amazonaws.com",
+      "domain_suffix": [
+        "githubhackathon.com",
+        "ghcr.io",
+        "githubnext.com",
+        "githubpreview.dev",
+        "github.blog",
+        "github.com",
+        "github.community",
+        "github.dev",
+        "github.io",
+        "githubapp.com",
+        "githubassets.com",
+        "githubcopilot.com",
+        "npmjs.org",
+        "dependabot.com",
+        "git.io",
+        "githubstatus.com",
+        "githubuniverse.com",
+        "githubusercontent.com",
+        "myoctocat.com",
+        "opensource.guide",
+        "repo.new",
+        "thegithubshop.com",
+        "atom.io",
+        "npm.community",
+        "npmjs.com",
+        "blob.core.windows.net"
+      ],
+      "domain_regex": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+    }
+  ]
+}

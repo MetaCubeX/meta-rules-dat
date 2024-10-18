@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "gog.qtlglb.com",
+        "gogalaxy.gog-statics.com",
+        "menu-static.gog-statics.com",
+        "productcard.gog-statics.com",
+        "static-login.gog-statics.com",
+        "www4-static.gog-statics.com"
+      ],
+      "domain_regex": [
+        "^cdn-akamai-.+\\.gog-services\\.com$",
+        "^gog-cdn-.+\\.footprint\\.net$",
+        "^images(-\\d)?\\.gog-statics\\.com$"
+      ]
+    }
+  ]
+}

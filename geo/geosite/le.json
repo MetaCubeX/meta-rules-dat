@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "le.com",
+        "lecloud.com",
+        "lemall.com",
+        "letv.com",
+        "letvcdn.com",
+        "letvimg.com"
+      ]
+    }
+  ]
+}

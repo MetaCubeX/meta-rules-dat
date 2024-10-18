@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "geforce.cn",
+        "gputechconf.cn",
+        "nvidia.cn"
+      ]
+    }
+  ]
+}
