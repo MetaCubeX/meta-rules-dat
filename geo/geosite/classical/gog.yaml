@@ -1,0 +1,12 @@
+payload:
+    - DOMAIN-SUFFIX,gog.com
+    - DOMAIN-SUFFIX,gog-statics.com
+    - DOMAIN,gog.qtlglb.com
+    - DOMAIN,gogalaxy.gog-statics.com
+    - DOMAIN,menu-static.gog-statics.com
+    - DOMAIN,productcard.gog-statics.com
+    - DOMAIN,static-login.gog-statics.com
+    - DOMAIN,www4-static.gog-statics.com
+    - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+    - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+    - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
