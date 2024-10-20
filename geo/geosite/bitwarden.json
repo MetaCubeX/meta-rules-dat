@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bitwarden.com",
+        "bitwarden.eu",
+        "bitwarden.net"
+      ]
+    }
+  ]
+}

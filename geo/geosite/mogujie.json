@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mogu.com",
+        "mogucdn.com",
+        "mogujie.com"
+      ]
+    }
+  ]
+}
