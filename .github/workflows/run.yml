@@ -309,23 +309,34 @@ jobs:
           sha256sum geoip-lite.metadb > geoip-lite.metadb.sha256sum
           sha256sum GeoLite2-ASN.mmdb > GeoLite2-ASN.mmdb.sha256sum
 
-      - name: Delete current release assets
-        uses: andreaswilli/delete-release-assets-action@v3.0.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          tag: latest
-          deleteOnlyFromDrafts: false
+      # Check if the release with the tag 'latest' exists
+      - name: Check if Release Exists
+        id: check_release
+        run: |
+          if gh release view latest; then
+            echo "release_exists=true" >> $GITHUB_ENV
+          else
+            echo "release_exists=false" >> $GITHUB_ENV
+          fi  
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create and Upload Release
+      # Delete the existing release if it exists
+      - name: Delete Existing Release
+        if: env.release_exists == 'true'
+        run: |
+          gh release delete latest --yes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Create a new release
+      - name: Create New Release and Upload Files
         id: upload_release
-        uses: svenstaro/upload-release-action@v2
+        uses: softprops/action-gh-release@v2
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          release_name: Release ${{ env.BUILDTIME }}
-          tag: latest
-          file_glob: true
-          overwrite: true
-          file: ./publish/*
+          name: Release ${{ env.BUILDTIME }}
+          tag_name: latest
+          files: ./publish/*
 
       - name: Git push assets to "release" branch
         run: |
