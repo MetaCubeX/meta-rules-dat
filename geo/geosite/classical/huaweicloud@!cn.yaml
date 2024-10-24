@@ -1,0 +1,21 @@
+payload:
+    - DOMAIN-SUFFIX,huaweicloud-dns.net
+    - DOMAIN-SUFFIX,huaweicloud-dns.org
+    - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
+    - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
+    - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
+    - DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
+    - DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
+    - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
+    - DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
+    - DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com

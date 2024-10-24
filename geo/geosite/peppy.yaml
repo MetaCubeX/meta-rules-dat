@@ -1,0 +1,11 @@
+payload:
+    - a.ppy.sh
+    - assets.ppy.sh
+    - c.ppy.sh
+    - osu.ppy.sh
+    - m1.ppy.sh
+    - lazer.ppy.sh
+    - notify.ppy.sh
+    - sentry.ppy.sh
+    - spectator.ppy.sh
+    - +.ppy.sh

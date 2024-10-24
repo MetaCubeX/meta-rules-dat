@@ -1,0 +1,13 @@
+payload:
+    - publicca.googleapis.com
+    - preprod-publicca.googleapis.com
+    - clients1.google.com
+    - pki.google.com
+    - +.pki.goog
+    - pki-goog.l.google.com
+    - c.pki.goog
+    - i.pki.goog
+    - o.pki.goog
+    - crl.pki.goog
+    - crls.pki.goog
+    - ocsp.pki.goog

@@ -1,0 +1,20 @@
+payload:
+    - DOMAIN-SUFFIX,microsoftnews.cc
+    - DOMAIN-SUFFIX,microsoftnews.com
+    - DOMAIN-SUFFIX,microsoftnews.net
+    - DOMAIN-SUFFIX,microsoftnews.org
+    - DOMAIN-SUFFIX,microsoftnewsforkids.com
+    - DOMAIN-SUFFIX,microsoftnewsforkids.net
+    - DOMAIN-SUFFIX,microsoftnewsforkids.org
+    - DOMAIN-SUFFIX,microsoftnewskids.com
+    - DOMAIN-SUFFIX,microsoftnewskids.net
+    - DOMAIN-SUFFIX,microsoftnewskids.org
+    - DOMAIN-SUFFIX,msn.com
+    - DOMAIN-SUFFIX,msnewskids.com
+    - DOMAIN-SUFFIX,msnewskids.net
+    - DOMAIN-SUFFIX,msnewskids.org
+    - DOMAIN-SUFFIX,msnkids.com
+    - DOMAIN-SUFFIX,microsoftstart.com
+    - DOMAIN-SUFFIX,start.com
+    - DOMAIN-SUFFIX,microsoftnews.cn
+    - DOMAIN-SUFFIX,msn.cn

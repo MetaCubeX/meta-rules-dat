@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+    - DOMAIN-SUFFIX,gitlab.com
+    - DOMAIN-SUFFIX,gitlab.io
+    - DOMAIN-SUFFIX,gitlab.net
+    - DOMAIN-SUFFIX,gitlab-static.net

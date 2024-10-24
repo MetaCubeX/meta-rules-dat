@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN,cdn.jsdelivr.net
+    - DOMAIN-SUFFIX,jsdelivr.com
+    - DOMAIN-SUFFIX,jsdelivr.net
+    - DOMAIN-SUFFIX,esm.run

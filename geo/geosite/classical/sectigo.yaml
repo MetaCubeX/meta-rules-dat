@@ -1,0 +1,18 @@
+payload:
+    - DOMAIN-SUFFIX,enterprisessl.com
+    - DOMAIN-SUFFIX,hackerguardian.com
+    - DOMAIN-SUFFIX,instantssl.com
+    - DOMAIN-SUFFIX,optimumssl.com
+    - DOMAIN-SUFFIX,positivessl.com
+    - DOMAIN-SUFFIX,sectigo.com
+    - DOMAIN-SUFFIX,trust-provider.com
+    - DOMAIN-SUFFIX,usertrust.com
+    - DOMAIN-SUFFIX,aoc.cat
+    - DOMAIN-SUFFIX,catcert.cat
+    - DOMAIN-SUFFIX,incommon-rsa.org
+    - DOMAIN-SUFFIX,netsolssl.com
+    - DOMAIN-SUFFIX,oemssl.cn
+    - DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
+    - DOMAIN-SUFFIX,sectigochina.com
+    - DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
+    - DOMAIN-SUFFIX,trust-provider.cn

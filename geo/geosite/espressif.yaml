@@ -1,0 +1,4 @@
+payload:
+    - +.espressif.com
+    - +.esp32.com
+    - +.esp8266.com

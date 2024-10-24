@@ -1,0 +1,25 @@
+payload:
+    - +.vercel.events
+    - +.zeit.co
+    - +.nextjs.org
+    - +.now.sh
+    - +.static.fun
+    - +.title.sh
+    - +.turborepo.org
+    - +.vercel-dns.com
+    - +.vercel-status.com
+    - +.vercel.app
+    - +.zeitworld.com
+    - +.hyper.is
+    - +.vercel.pub
+    - +.vercel.live
+    - +.err.sh
+    - +.vercel.sh
+    - +.vercel.store
+    - +.vercel.blog
+    - +.zeit-world.com
+    - +.zeit-world.net
+    - +.zeit-world.org
+    - +.vercel.com
+    - +.zeit.sh
+    - +.zeit-world.co.uk

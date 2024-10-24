@@ -1,0 +1,11 @@
+payload:
+    - connect.rom.miui.com
+    - +.msftconnecttest.com
+    - +.msftncsi.com
+    - +.ping.archlinux.org
+    - +.captive.apple.com
+    - +.connectivitycheck.gstatic.com
+    - +.cp.cloudflare.com
+    - +.network-test.debian.org
+    - +.detectportal.firefox.com
+    - +.networkcheck.kde.org
