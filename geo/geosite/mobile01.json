@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "5i01.com",
+        "mobile01.com"
+      ]
+    }
+  ]
+}

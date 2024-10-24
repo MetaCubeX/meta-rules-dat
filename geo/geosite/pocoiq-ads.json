@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdn.pocoiq.cn",
+        "oct.pocoiq.cn"
+      ]
+    }
+  ]
+}

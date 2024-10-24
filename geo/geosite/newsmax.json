@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "andysparis.com",
+        "newsmax.com",
+        "newsmax.in",
+        "newsmaxtv.com"
+      ]
+    }
+  ]
+}

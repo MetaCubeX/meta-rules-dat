@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "barrons-advisor.com",
+        "barrons-conferences.com",
+        "barrons.com",
+        "wsjbarrons.com"
+      ]
+    }
+  ]
+}

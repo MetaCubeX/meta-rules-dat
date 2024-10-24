@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "ip_cidr": "2a0f:9ac0::/29"
+    }
+  ]
+}

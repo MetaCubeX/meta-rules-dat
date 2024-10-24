@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "oppo.cn",
+        "heytapcs.com",
+        "allawntech.com",
+        "oppo.mobi",
+        "oppo.com",
+        "heytapdownload.com",
+        "heytapimage.com",
+        "heytapmobi.com",
+        "myoppo.com",
+        "realmemobile.com",
+        "finzfin.com",
+        "coloros.com",
+        "heytap.com",
+        "oppodigital.com",
+        "oppoer.me",
+        "oppomobile.com",
+        "oppopay.com",
+        "opposhop.cn",
+        "realme.com",
+        "realmebbs.com",
+        "nearme.com.cn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com"
+      ]
+    }
+  ]
+}

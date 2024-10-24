@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "arewereadyyet.com",
+        "element.io",
+        "matrix.org",
+        "matrix.to",
+        "modular.im",
+        "riot.im",
+        "vector.im"
+      ]
+    }
+  ]
+}

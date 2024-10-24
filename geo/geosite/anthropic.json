@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "servd-anthropic-website.b-cdn.net",
+      "domain_suffix": [
+        "anthropic.com",
+        "claude.ai",
+        "claudeusercontent.com"
+      ]
+    }
+  ]
+}

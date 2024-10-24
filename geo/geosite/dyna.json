@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dynacw.com",
+        "dynacw.co.jp",
+        "dynacw.com.cn",
+        "dynacw.com.hk",
+        "dynacw.com.tw"
+      ]
+    }
+  ]
+}

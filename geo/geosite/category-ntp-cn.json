@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "time.izatcloud.net",
+        "time.xtracloud.net"
+      ],
+      "domain_suffix": [
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn"
+      ],
+      "domain_regex": [
+        "^ntp([1-7])?\\.aliyun\\.com$",
+        "^ntp([1-5])?\\.tencent\\.com$"
+      ]
+    }
+  ]
+}

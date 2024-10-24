@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "battlebreakers.com",
+        "eac-cdn.com",
+        "easy.ac",
+        "easyanticheat.net",
+        "epicgames.com",
+        "epicgames.dev",
+        "fortnite.com",
+        "paragon.com",
+        "playparagon.com",
+        "roborecall.com",
+        "shadowcomplex.com",
+        "spyjinx.com",
+        "unrealengine.com",
+        "unrealtournament.com"
+      ],
+      "domain_regex": [
+        "^epicgames-download\\d\\.akamaized\\.net$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+      ]
+    }
+  ]
+}

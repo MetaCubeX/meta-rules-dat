@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mobmore.com",
+        "umeng.com",
+        "umengcloud.com",
+        "umsns.com",
+        "umtrack.com",
+        "uyunad.com",
+        "whalecloud.com",
+        "alog.umeng.com",
+        "alog.umengcloud.com",
+        "w.cnzz.com",
+        "z.gds.cnzz.com"
+      ]
+    }
+  ]
+}

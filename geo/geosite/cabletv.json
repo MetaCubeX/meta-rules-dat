@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "i-cable.com",
+        "cabletv.com.hk"
+      ]
+    }
+  ]
+}

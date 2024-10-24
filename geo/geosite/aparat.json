@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aparat.com",
+        "aparatkids.com",
+        "aparatsport.com"
+      ]
+    }
+  ]
+}

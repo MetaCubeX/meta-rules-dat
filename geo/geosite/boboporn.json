@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "boboporn.com",
+        "boboporn.net",
+        "bobovip.cc",
+        "sesez.com"
+      ]
+    }
+  ]
+}

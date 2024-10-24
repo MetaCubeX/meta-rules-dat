@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "p16-tiktokcdn-com.akamaized.net",
+      "domain_suffix": [
+        "byteoversea.com",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "coze.com",
+        "byteoversea.com",
+        "muscdn.com",
+        "musical.ly",
+        "tik-tokapi.com",
+        "tiktok.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "tiktokd.net",
+        "tiktokd.org",
+        "tiktokv.com",
+        "tiktokv.us",
+        "tiktokw.us",
+        "ttwstatic.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "vivo.com",
+        "vivo.com.cn",
+        "vivoglobal.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "guanggaotongapp.cn",
+        "jutongbao.online",
+        "jutongbao.top"
+      ]
+    }
+  ]
+}

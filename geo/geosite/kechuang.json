@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "kc.kexinshe.com",
+      "domain_suffix": "kechuang.org"
+    }
+  ]
+}

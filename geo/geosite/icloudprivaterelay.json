@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mask-h2.icloud.com",
+        "mask.icloud.com"
+      ]
+    }
+  ]
+}

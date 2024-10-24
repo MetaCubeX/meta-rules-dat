@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "electrek.co",
+        "typeisbeautiful.com",
+        "appleinsider.com",
+        "digitaltrends.com",
+        "engadget.com",
+        "macrumors.com",
+        "slashdot.org",
+        "technews.tw",
+        "techradar.com",
+        "theverge.com",
+        "ycombinator.com",
+        "androidpolice.com",
+        "9to5mac.com",
+        "9to5google.com",
+        "tomsguide.com",
+        "9to5terminal.com",
+        "9to5toys.com",
+        "dronedj.com",
+        "androidauthority.com",
+        "spaceexplored.com",
+        "thetype.com",
+        "zdnet.com",
+        "startupschool.org",
+        "zdnet.redvideo.io",
+        "thetype.cloud"
+      ]
+    }
+  ]
+}

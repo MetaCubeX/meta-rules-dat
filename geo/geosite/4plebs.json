@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "4pcdn.org",
+        "4plebs.org"
+      ]
+    }
+  ]
+}

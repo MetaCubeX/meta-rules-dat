@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "pki-goog.l.google.com",
+        "c.pki.goog",
+        "i.pki.goog",
+        "o.pki.goog",
+        "crl.pki.goog",
+        "crls.pki.goog",
+        "ocsp.pki.goog",
+        "certs-lb.apple.com.akadns.net",
+        "certs.apple.com",
+        "crl-lb.apple.com.akadns.net",
+        "crl.apple.com",
+        "ocsp-lb.apple.com.akadns.net",
+        "ocsp.apple.com",
+        "ocsp2-lb.apple.com.akadns.net",
+        "ocsp2.apple.com",
+        "www.microsoft.com",
+        "cdn.globalsigncdn.com.cdn.cloudflare.net"
+      ],
+      "domain_suffix": [
+        "oemssl.cn",
+        "oemssl.cn.cdn.cloudflare.net",
+        "sectigochina.com",
+        "sectigochina.com.cdn.cloudflare.net",
+        "trust-provider.cn",
+        "yahoo.cn",
+        "yahoo.com.cn",
+        "alphassl.com",
+        "easy-signing.com",
+        "globalsign.cn",
+        "globalsign.com",
+        "globalsigncdn.com",
+        "dcocsp.cn",
+        "digicert.cn",
+        "sslcom.cn"
+      ]
+    }
+  ]
+}
