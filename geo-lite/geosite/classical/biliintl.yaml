@@ -1,0 +1,14 @@
+payload:
+    - DOMAIN-SUFFIX,biliintl.com
+    - DOMAIN-SUFFIX,bilibili.tv
+    - DOMAIN-SUFFIX,api.global.bilibili.com
+    - DOMAIN-SUFFIX,app.global.bilibili.com
+    - DOMAIN-SUFFIX,api.bilibili.tv
+    - DOMAIN-SUFFIX,apm-misaka.biliapi.net
+    - DOMAIN-SUFFIX,bstarstatic.com
+    - DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+    - DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
+    - DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
+    - DOMAIN-SUFFIX,upos-sz-mirrorcosbstar1.bilivideo.com
+    - DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
+    - DOMAIN-SUFFIX,passport.biliintl.com

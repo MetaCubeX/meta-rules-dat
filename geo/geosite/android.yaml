@@ -1,0 +1,4 @@
+payload:
+    - android.googlesource.com
+    - +.android.com
+    - +.androidify.com

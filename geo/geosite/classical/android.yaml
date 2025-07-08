@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN,android.googlesource.com
+    - DOMAIN-SUFFIX,android.com
+    - DOMAIN-SUFFIX,androidify.com

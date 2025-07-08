@@ -1,0 +1,18 @@
+payload:
+    - DOMAIN-SUFFIX,steamserver.net
+    - DOMAIN-SUFFIX,steamusercontent.com
+    - DOMAIN-SUFFIX,csgo.wmsj.cn
+    - DOMAIN-SUFFIX,dota2.wmsj.cn
+    - DOMAIN-SUFFIX,wmsjsteam.com
+    - DOMAIN-SUFFIX,client-update.queniuqe.com
+    - DOMAIN-SUFFIX,dl.steam.clngaa.com
+    - DOMAIN-SUFFIX,st.dl.bscstorage.net
+    - DOMAIN-SUFFIX,st.dl.eccdnx.com
+    - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+    - DOMAIN-SUFFIX,steampowered.com.8686c.com
+    - DOMAIN-SUFFIX,steamstatic.com.8686c.com
+    - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+    - DOMAIN,lv.queniujq.cn
+    - DOMAIN,xz.pphimalayanrt.com
+    - DOMAIN-SUFFIX,steamchina.com
+    - DOMAIN-SUFFIX,gstore.val.manlaxy.com
