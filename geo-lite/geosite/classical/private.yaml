@@ -33,7 +33,6 @@ payload:
     - DOMAIN-SUFFIX,168.192.in-addr.arpa
     - DOMAIN-SUFFIX,254.169.in-addr.arpa
     - DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa
-    - DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
     - DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
     - DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
     - DOMAIN-SUFFIX,8.e.f.ip6.arpa
