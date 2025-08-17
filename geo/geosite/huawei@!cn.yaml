@@ -1,0 +1,21 @@
+payload:
+    - +.huaweicloud-dns.net
+    - +.huaweicloud-dns.org
+    - +.ae-ad-1.myhuaweicloud.com
+    - +.af-north-1.myhuaweicloud.com
+    - +.af-south-1.myhuaweicloud.com
+    - +.ap-southeast-1.myhuaweicloud.com
+    - +.ap-southeast-2.myhuaweicloud.com
+    - +.ap-southeast-3.myhuaweicloud.com
+    - +.ap-southeast-4.myhuaweicloud.com
+    - +.eu-west-0.myhuaweicloud.com
+    - +.eu-west-101.myhuaweicloud.com
+    - +.la-north-2.myhuaweicloud.com
+    - +.la-south-2.myhuaweicloud.com
+    - +.me-east-1.myhuaweicloud.com
+    - +.my-kualalumpur-1.myhuaweicloud.com
+    - +.na-mexico-1.myhuaweicloud.com
+    - +.ru-moscow-1.myhuaweicloud.com
+    - +.ru-northwest-2.myhuaweicloud.com
+    - +.sa-brazil-1.myhuaweicloud.com
+    - +.tr-west-1.myhuaweicloud.com

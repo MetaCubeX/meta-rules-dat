@@ -1,0 +1,24 @@
+payload:
+    - mdn.mozillademos.org
+    - +.rust-lang.org
+    - +.mozilla.community
+    - +.rustup.rs
+    - +.crates.io
+    - +.mozilla.org
+    - +.extensionworkshop.com
+    - +.bugzilla.org
+    - +.getpocket.com
+    - +.seamonkey-project.org
+    - +.thunderbird.net
+    - +.mozgcp.net
+    - +.mdnyalp.dev
+    - +.mdnplay.dev
+    - +.mozilla.com
+    - +.mozilla.net
+    - +.docs.rs
+    - +.firefox.com
+    - +.firefoxusercontent.com
+    - +.mdn.dev
+    - +.mdn.mozit.cloud
+    - +.developer.allizom.org
+    - +.mdn.allizom.net

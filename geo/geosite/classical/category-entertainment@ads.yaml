@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN,disney.my.sentry.io
+    - DOMAIN-SUFFIX,ads-pixiv.net

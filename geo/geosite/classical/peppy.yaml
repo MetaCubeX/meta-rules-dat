@@ -1,0 +1,11 @@
+payload:
+    - DOMAIN,a.ppy.sh
+    - DOMAIN,assets.ppy.sh
+    - DOMAIN,c.ppy.sh
+    - DOMAIN,osu.ppy.sh
+    - DOMAIN,m1.ppy.sh
+    - DOMAIN,lazer.ppy.sh
+    - DOMAIN,notify.ppy.sh
+    - DOMAIN,sentry.ppy.sh
+    - DOMAIN,spectator.ppy.sh
+    - DOMAIN-SUFFIX,ppy.sh

@@ -1,0 +1,14 @@
+payload:
+    - DOMAIN-SUFFIX,api.game.letvstore.com
+    - DOMAIN-SUFFIX,ark.letv.com
+    - DOMAIN-SUFFIX,dc.letv.com
+    - DOMAIN-SUFFIX,fz.letv.com
+    - DOMAIN-SUFFIX,g3.letv.com
+    - DOMAIN-SUFFIX,letv.allyes.com
+    - DOMAIN-SUFFIX,minisite.letv.com
+    - DOMAIN-SUFFIX,msg.m.letv.com
+    - DOMAIN-SUFFIX,n.mark.letv.com
+    - DOMAIN-SUFFIX,pro.hoye.letv.com
+    - DOMAIN-SUFFIX,pro.letv.com
+    - DOMAIN-SUFFIX,stat.letv.com
+    - DOMAIN-SUFFIX,static.app.m.letv.com

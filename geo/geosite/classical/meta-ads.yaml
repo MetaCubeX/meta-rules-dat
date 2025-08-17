@@ -1,0 +1,7 @@
+payload:
+    - DOMAIN-SUFFIX,analytics.facebook.com
+    - DOMAIN-SUFFIX,pixel.facebook.com
+    - DOMAIN-SUFFIX,graph.instagram.com
+    - DOMAIN-SUFFIX,graph-fallback.instagram.com
+    - DOMAIN-SUFFIX,graph.whatsapp.com
+    - DOMAIN-SUFFIX,graph.whatsapp.net

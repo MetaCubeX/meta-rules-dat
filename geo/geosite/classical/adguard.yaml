@@ -1,0 +1,18 @@
+payload:
+    - DOMAIN-SUFFIX,adguardaccount.com
+    - DOMAIN-SUFFIX,adguard.app
+    - DOMAIN-SUFFIX,adguard.com
+    - DOMAIN-SUFFIX,adguard.info
+    - DOMAIN-SUFFIX,adguard.io
+    - DOMAIN-SUFFIX,adguard.org
+    - DOMAIN-SUFFIX,adtidy.net
+    - DOMAIN-SUFFIX,adtidy.org
+    - DOMAIN-SUFFIX,agrd.eu
+    - DOMAIN-SUFFIX,agrd.io
+    - DOMAIN-SUFFIX,adguard-dns.com
+    - DOMAIN-SUFFIX,adguard-dns.io
+    - DOMAIN-SUFFIX,adguard-mail.com
+    - DOMAIN-SUFFIX,mask.me
+    - DOMAIN-SUFFIX,adguardvpn.com
+    - DOMAIN-SUFFIX,adguard-vpn.com
+    - DOMAIN-SUFFIX,adguard-vpn.online
