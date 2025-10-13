@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bestincapi.com",
+        "800best.net",
+        "56laile.com",
+        "youyiwms.com",
+        "bestincapp.cn",
+        "800bestapi.cn",
+        "800bestapi.com",
+        "800bestapp.cn",
+        "800bestapp.com",
+        "baishinetwork.com",
+        "best-inc.com",
+        "bestincapp.com",
+        "bestdataclub.com",
+        "bestincapi.cn",
+        "800best.com",
+        "800best.cn",
+        "bestcrossborder.com",
+        "linliyz.com",
+        "qiancangwms.com",
+        "qianyierp.com",
+        "t1tms.com",
+        "t8tms.com",
+        "t9tms.com",
+        "tnettms.com",
+        "wangniuwms.com",
+        "xinyuanfin.com",
+        "youyierp.com",
+        "youyitms.com",
+        "800best.com.cn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "justmysocks.net",
+        "justmysocks1.net",
+        "justmysocks2.net",
+        "justmysocks4.net"
+      ]
+    }
+  ]
+}

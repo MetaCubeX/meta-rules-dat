@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "doc88.com",
+        "docin.com",
+        "douding.cn"
+      ]
+    }
+  ]
+}

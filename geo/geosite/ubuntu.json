@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ubuntu.com",
+        "ubuntu.net",
+        "ubuntuforums.org",
+        "ubuntu-touch.io"
+      ]
+    }
+  ]
+}

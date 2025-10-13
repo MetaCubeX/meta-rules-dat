@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cisco.cn",
+        "cisco.com.cn",
+        "network-auth.cn",
+        "webex.com.cn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "theworld.cn",
+        "360pay.cn",
+        "360-api.cn",
+        "360-game.net",
+        "warsaga.cn",
+        "360sjyh.cn",
+        "gamepack.cn",
+        "wggames.cn",
+        "qikoo.com",
+        "qiku.com",
+        "qikucdn.com",
+        "starworldgames.com",
+        "360-g.net",
+        "360-g.cn",
+        "qftexpay.cn",
+        "worldofship.cn",
+        "worldoftank.cn",
+        "worldoftanks.cn",
+        "yiwanzhushou.com",
+        "wotgame.cn",
+        "wowsgame.cn",
+        "woxihuan.com",
+        "wztsy.cn",
+        "wztsy.com",
+        "worldoftanks.com.cn"
+      ]
+    }
+  ]
+}

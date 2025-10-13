@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ad.games.dmm.com",
+        "bluekai.com",
+        "fout.jp",
+        "gmossp-sp.jp",
+        "i-mobile.co.jp",
+        "im-apps.net",
+        "impact-ad.jp",
+        "ladsp.com",
+        "microad.co.jp",
+        "microad.jp",
+        "socdm.com"
+      ]
+    }
+  ]
+}

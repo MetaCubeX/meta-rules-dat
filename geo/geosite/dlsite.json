@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "chobit.cc",
+        "ci-en.jp",
+        "ci-en.net",
+        "dlsite.com",
+        "dlsite.jp",
+        "dlsitestudio.com",
+        "nijiyome.jp",
+        "triokini.com",
+        "dlsite.com.tw"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "sogoucdndl.com",
+        "yidianliulan.cn",
+        "ggowan.com",
+        "go2map.com",
+        "pinyin.cn",
+        "qd.ink",
+        "binglianhuajianzhan.com",
+        "sgtmos.com",
+        "sgyeyou.com",
+        "sgyouxi.com",
+        "sogo.com",
+        "sogou.cn",
+        "sogou.com",
+        "sogou.net",
+        "yuweikuijianzhan.com",
+        "ggoplay.com",
+        "sg.cn",
+        "sogouimecdn.com",
+        "sogou-inc.com",
+        "sogou-op.org",
+        "soso.com",
+        "yidianliulan.com",
+        "sososnap.com",
+        "teemo.cn",
+        "wannianqingjianzhan.com",
+        "xiangrikuijianzhan.com",
+        "xiangrikuisite.com",
+        "xinyan.cn",
+        "yeyousg.com",
+        "sogoucdn.com",
+        "soso.com.cn",
+        "sogou.com.cn"
+      ]
+    }
+  ]
+}

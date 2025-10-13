@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "link.com",
+        "stripe-terminal-local-reader.net",
+        "stripe.com",
+        "stripe.network",
+        "stripecdn.com"
+      ]
+    }
+  ]
+}

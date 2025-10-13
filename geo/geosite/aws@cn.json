@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "a2z.org.cn",
+        "amazonaws.cn",
+        "amazonaws.com.cn",
+        "amazonwebservices.com.cn",
+        "amazonworkdocs.cn",
+        "amazonworkdocs.com.cn",
+        "asfiovnxocqpcry.com.cn",
+        "aws-border.cn",
+        "aws-icp-domain-manager.cn",
+        "awsapps.cn",
+        "awsapps.com.cn",
+        "awsstatic.cn",
+        "cloudfront-cn.net",
+        "cloudfront-test.cn",
+        "cloudfront.cn",
+        "nwcdcloud.cn",
+        "nwcdcloud.com.cn",
+        "nwcddns.cn",
+        "nwcdinfosec.cn",
+        "route53.cn",
+        "sagemaker.com.cn",
+        "amzndns-cn.biz",
+        "amzndns-cn.cn",
+        "amzndns-cn.com",
+        "amzndns-cn.net"
+      ],
+      "domain_regex": [
+        ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+        ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+      ]
+    }
+  ]
+}

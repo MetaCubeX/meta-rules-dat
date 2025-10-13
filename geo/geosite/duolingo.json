@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "duolingo.com",
+        "duolingo.cn",
+        "ads-api.duolingo.com",
+        "metrics.duolingo.com",
+        "analytics.vpc.duolingo.com"
+      ]
+    }
+  ]
+}

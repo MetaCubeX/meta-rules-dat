@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ckd.im",
+        "kd100.com",
+        "kuaidi100.com",
+        "kuaidilab.com"
+      ]
+    }
+  ]
+}

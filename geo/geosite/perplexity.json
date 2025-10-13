@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "pplx-res.cloudinary.com",
+      "domain_suffix": [
+        "perplexity.ai",
+        "perplexity.com",
+        "pplx.ai"
+      ]
+    }
+  ]
+}

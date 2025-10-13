@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cinematicket.org",
+        "filmnet.ir",
+        "irib.ir",
+        "iribtv.ir",
+        "irinn.ir",
+        "jjtvn.ir",
+        "namava.ir",
+        "qurantv.ir",
+        "radio.ir",
+        "radioiran.ir",
+        "radiojavan.ir",
+        "radiomaaref.ir",
+        "radiopayam.ir",
+        "radioquran.ir",
+        "radiotehran.ir",
+        "radiovarzesh.ir",
+        "telewebion.com",
+        "tmk.ir",
+        "tv3.ir",
+        "tv5.ir",
+        "tv7.ir",
+        "aparat.com",
+        "aparatkids.com",
+        "aparatsport.com",
+        "filimo.com",
+        "filimo.school"
+      ]
+    }
+  ]
+}

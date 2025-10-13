@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "c.mi.com",
+        "global.market.xiaomi.com"
+      ]
+    }
+  ]
+}

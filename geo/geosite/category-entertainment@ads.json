@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "disney.my.sentry.io",
+      "domain_suffix": "ads-pixiv.net"
+    }
+  ]
+}

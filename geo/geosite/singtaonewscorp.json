@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkheadline.com",
+        "singtao.com",
+        "singtaonewscorp.com",
+        "my-magazine.me",
+        "singtaola.com",
+        "singtaousa.com",
+        "stheadline.com",
+        "singtaoopo.com",
+        "headlinejobs.hk",
+        "sing68.com",
+        "singtaobooks.com",
+        "eduplus.hk",
+        "bastillepost.com",
+        "easttouch.com.hk",
+        "pcmarket.com.hk",
+        "jobmarket.com.hk",
+        "eastweek.com.hk",
+        "thestandard.com.hk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "webchannel-alkalimakersuite-pa.clients6.google.com"
+      ],
+      "domain_suffix": [
+        "gemini.google",
+        "deepmind.google",
+        "labs.google",
+        "jules.google",
+        "deepmind.com",
+        "notebooklm.google",
+        "generativeai.google",
+        "proactivebackend-pa.googleapis.com",
+        "aistudio.google.com",
+        "bard.google.com",
+        "makersuite.google.com",
+        "gemini.google.com",
+        "robinfrontend-pa.googleapis.com",
+        "notebooklm.google.com",
+        "generativelanguage.googleapis.com",
+        "jules.google.com",
+        "geller-pa.googleapis.com",
+        "aisandbox-pa.googleapis.com"
+      ]
+    }
+  ]
+}

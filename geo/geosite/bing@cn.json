@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bj1.api.bing.com",
+        "emoi-cncdn.bing.com"
+      ],
+      "domain_suffix": [
+        "bing.com.cn",
+        "cn.bing.com",
+        "cn.bing.net",
+        "cn.mm.bing.net",
+        "ditu.live.com",
+        "r.bing.com",
+        "th.bing.com"
+      ]
+    }
+  ]
+}

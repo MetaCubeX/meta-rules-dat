@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "mdn.mozillademos.org",
+      "domain_suffix": [
+        "firefox.com",
+        "mozilla.community",
+        "firefoxusercontent.com",
+        "mdn.dev",
+        "mozilla.org",
+        "extensionworkshop.com",
+        "bugzilla.org",
+        "getpocket.com",
+        "seamonkey-project.org",
+        "thunderbird.net",
+        "mozgcp.net",
+        "crates.io",
+        "docs.rs",
+        "mozilla.com",
+        "mozilla.net",
+        "mdnplay.dev",
+        "mdnyalp.dev",
+        "rustup.rs",
+        "rust-lang.org",
+        "mdn.allizom.net",
+        "mdn.mozit.cloud",
+        "developer.allizom.org"
+      ]
+    }
+  ]
+}

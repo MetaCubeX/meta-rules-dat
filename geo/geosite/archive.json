@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "archive-it.org",
+        "archive.md",
+        "archive.org",
+        "archive.ph",
+        "archive.today",
+        "openlibrary.org",
+        "4pcdn.org",
+        "4plebs.org"
+      ]
+    }
+  ]
+}

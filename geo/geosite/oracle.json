@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "oracle",
+        "java",
+        "oracleimg.com",
+        "oracleinfinity.io",
+        "covid19rx.org",
+        "oracle.com",
+        "oraclecloud.com",
+        "oraclefoundation.org",
+        "bronto.com",
+        "covid19-rx.org",
+        "sun.com",
+        "virtualbox.org",
+        "addthis.com",
+        "addthiscdn.com",
+        "addthisedge.com",
+        "ateam-oracle.com",
+        "java.com",
+        "java.net"
+      ]
+    }
+  ]
+}
