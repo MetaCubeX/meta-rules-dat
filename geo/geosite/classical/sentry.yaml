@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN-SUFFIX,sentry.io
+    - DOMAIN-SUFFIX,sentry-cdn.com

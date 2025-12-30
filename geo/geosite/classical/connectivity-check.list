@@ -1,0 +1,14 @@
+DOMAIN,ping.archlinux.org
+DOMAIN,redirect.archlinux.org
+DOMAIN,connectivitycheck.platform.hihonorcloud.com
+DOMAIN,connectivitycheck.platform.hicloud.com
+DOMAIN,connect.rom.miui.com
+DOMAIN,connectivity-check.ubuntu.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,cp.cloudflare.com
+DOMAIN-SUFFIX,network-test.debian.org
+DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,networkcheck.kde.org

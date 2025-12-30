@@ -1,0 +1,7 @@
+payload:
+    - DOMAIN-SUFFIX,browser.events.data.msn.cn
+    - DOMAIN-SUFFIX,browser.events.data.msn.com
+    - DOMAIN-SUFFIX,clarity.ms
+    - DOMAIN-SUFFIX,microsoftads.com
+    - DOMAIN-SUFFIX,msads.net
+    - DOMAIN-SUFFIX,nelreports.net

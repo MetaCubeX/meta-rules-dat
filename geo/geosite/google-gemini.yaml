@@ -1,0 +1,26 @@
+payload:
+    - ai.google.dev
+    - alkalicore-pa.clients6.google.com
+    - alkalimakersuite-pa.clients6.google.com
+    - webchannel-alkalimakersuite-pa.clients6.google.com
+    - +.gemini.google
+    - +.deepmind.google
+    - +.opal.google
+    - +.labs.google
+    - +.jules.google
+    - +.deepmind.com
+    - +.generativeai.google
+    - +.notebooklm.google
+    - +.robinfrontend-pa.googleapis.com
+    - +.bard.google.com
+    - +.aistudio.google.com
+    - +.gemini.google.com
+    - +.makersuite.google.com
+    - +.notebooklm.google.com
+    - +.proactivebackend-pa.googleapis.com
+    - +.jules.google.com
+    - +.generativelanguage.googleapis.com
+    - +.aisandbox-pa.googleapis.com
+    - +.aida.googleapis.com
+    - +.geller-pa.googleapis.com
+    - +.opal.google.com
