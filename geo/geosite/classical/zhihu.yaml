@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN-SUFFIX,zhihu.com
+    - DOMAIN-SUFFIX,zhimg.com
+    - DOMAIN-SUFFIX,crash2.zhihu.com
+    - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

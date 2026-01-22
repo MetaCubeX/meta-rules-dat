@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN-SUFFIX,openspeedtest.com
+    - DOMAIN-SUFFIX,open.cachefly.net

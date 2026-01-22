@@ -1,0 +1,15 @@
+payload:
+    - ping.archlinux.org
+    - redirect.archlinux.org
+    - connectivitycheck.platform.hihonorcloud.com
+    - connectivitycheck.platform.hicloud.com
+    - connect.rom.miui.com
+    - connectivity-check.ubuntu.com
+    - +.msftconnecttest.com
+    - +.msftncsi.com
+    - +.captive.apple.com
+    - +.cp.cloudflare.com
+    - +.network-test.debian.org
+    - +.detectportal.firefox.com
+    - +.connectivitycheck.gstatic.com
+    - +.networkcheck.kde.org
