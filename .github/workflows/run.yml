@@ -43,6 +43,12 @@ jobs:
           repository: v2fly/domain-list-community
           path: community
 
+      - name: Checkout MetaCubeX/meta-rules-converter
+        uses: actions/checkout@v4
+        with:
+          repository: MetaCubeX/meta-rules-converter
+          path: convert
+
       - name: Checkout cokebar/gfwlist2dnsmasq
         uses: actions/checkout@v4
         with:
@@ -54,11 +60,6 @@ jobs:
         with:
           go-version: '1.22'
           cache-dependency-path: ./custom/go.sum
-
-      - name: Get geoip.dat relative files
-        run: |
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat.sha256sum
 
       - name: Generate GFWList domains
         run: |
@@ -154,6 +155,7 @@ jobs:
           curl -sSL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.list | ${{ env.SED }} > ./community/data/tracker
           curl -sSL https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt | grep -i "\.[A-Z]" | grep -v tracker | sed 's/^.*\/\///g' | sed 's/:.*\/.*//g' >> ./community/data/tracker
           curl -sSL https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/BlockHttpDNS/BlockHttpDNS.list | ${{ env.SED }} > ./community/data/httpdns
+          echo "zed.dev" >> ./community/data/category-dev
 
       - name: Build geosite.dat file
         run: |
@@ -223,57 +225,47 @@ jobs:
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./sing-rule/geo
-          cp ./geoip.dat ./custom/publish/geosite.dat ./sing-rule/geo/ 
-          cd ./sing-rule/geo
-          mkdir -p geosite && mkdir -p geoip
-          wget https://github.com/xishang0128/convert/releases/download/Prerelease-main/convert-linux-amd64
-          chmod 755 convert-linux-amd64
-          ./convert-linux-amd64 geosite -f ./geosite.dat -o ./geosite -t sing-box
-          ./convert-linux-amd64 geoip -f ./geoip.dat -o ./geoip -t sing-box
-          rm convert-linux-amd64 geoip.dat geosite.dat
+          mkdir -p sing-rule/geo/geosite && mkdir -p sing-rule/geo/geoip
+          cd convert
+          go run ./ geosite -f ../custom/publish/geosite.dat -o ../sing-rule/geo/geosite -t sing-box
+          go run ./ geoip -f ../geoip.dat -o ../sing-rule/geo/geoip -t sing-box
 
       - name: Convert geo-lite to sing-rule-set
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./sing-rule/geo-lite
-          cp ./geoip-lite.dat ./sing-rule/geo-lite/geoip.dat && cp ./community/geosite-lite.dat ./sing-rule/geo-lite/geosite.dat 
-          cd ./sing-rule/geo-lite
-          mkdir -p geosite && mkdir -p geoip
-          wget https://github.com/xishang0128/convert/releases/download/Prerelease-main/convert-linux-amd64
-          chmod 755 convert-linux-amd64
-          ./convert-linux-amd64 geosite -f ./geosite.dat -o ./geosite -t sing-box
-          ./convert-linux-amd64 geoip -f ./geoip.dat -o ./geoip -t sing-box
-          rm convert-linux-amd64 geoip.dat geosite.dat
+          mkdir -p sing-rule/geo-lite/geosite && mkdir -p sing-rule/geo-lite/geoip
+          cd convert
+          go run ./ geosite -f ../community/geosite-lite.dat -o ../sing-rule/geo-lite/geosite -t sing-box
+          go run ./ geoip -f ../geoip-lite.dat -o ../sing-rule/geo-lite/geoip -t sing-box
 
       - name: Convert geo to meta-rule-set
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./meta-rule/geo
-          cp ./geoip.dat ./custom/publish/geosite.dat ./meta-rule/geo/ 
-          cd ./meta-rule/geo
-          mkdir -p geosite/classical && mkdir -p geoip/classical
-          wget https://github.com/xishang0128/convert/releases/download/Prerelease-main/convert-linux-amd64
-          chmod 755 convert-linux-amd64
-          ./convert-linux-amd64 geosite -f ./geosite.dat -o ./geosite
-          ./convert-linux-amd64 geoip -f ./geoip.dat -o ./geoip
-          rm convert-linux-amd64 geoip.dat geosite.dat
+          mkdir -p meta-rule/geo/geosite && mkdir -p meta-rule/geo/geoip
+          cd convert
+          go run ./ geosite -f ../custom/publish/geosite.dat -o ../meta-rule/geo/geosite
+          go run ./ geoip -f ../geoip.dat -o ../meta-rule/geo/geoip
 
       - name: Convert geo-lite to meta-rule-set
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./meta-rule/geo-lite
-          cp ./geoip-lite.dat ./meta-rule/geo-lite/geoip.dat && cp ./community/geosite-lite.dat ./meta-rule/geo-lite/geosite.dat
-          cd ./meta-rule/geo-lite
-          mkdir -p geosite/classical && mkdir -p geoip/classical
-          wget https://github.com/xishang0128/convert/releases/download/Prerelease-main/convert-linux-amd64
-          chmod 755 convert-linux-amd64
-          ./convert-linux-amd64 geosite -f ./geosite.dat -o ./geosite
-          ./convert-linux-amd64 geoip -f ./geoip.dat -o ./geoip
-          rm convert-linux-amd64 geoip.dat geosite.dat
+          mkdir -p meta-rule/geo-lite/geosite && mkdir -p meta-rule/geo-lite/geoip
+          cd convert
+          go run ./ geosite -f ../community/geosite-lite.dat -o ../meta-rule/geo-lite/geosite
+          go run ./ geoip -f ../geoip-lite.dat -o ../meta-rule/geo-lite/geoip
+
+      - name: Convert asn
+        env:
+          NO_SKIP: true
+        run: |
+          mkdir -p meta-rule/asn && mkdir -p sing-rule/asn
+          cd convert
+          wget https://raw.githubusercontent.com/xishang0128/geoip/release/GeoLite2-ASN.mmdb
+          go run ./ asn -o ../meta-rule/asn
+          go run ./ asn -o ../sing-rule/asn -t sing-box
 
       # - name: Convert bm7-rule-set to sing-rule-set
       #   env:
@@ -292,6 +284,7 @@ jobs:
           mkdir -p ./publish/
           wget https://raw.githubusercontent.com/xishang0128/geoip/release/Country.mmdb -O ./publish/country-lite.mmdb
           wget https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb -O ./publish/country.mmdb
+          wget https://raw.githubusercontent.com/xishang0128/geoip/release/GeoLite2-ASN.mmdb -O ./publish/GeoLite2-ASN.mmdb
           install -Dp ./geoip-lite.dat ./publish/
           install -Dp ./geoip.dat ./publish/
           install -Dp ./custom/publish/geosite.dat ./publish/
@@ -315,6 +308,7 @@ jobs:
           sha256sum geoip-lite.db > geoip-lite.db.sha256sum
           sha256sum geoip.metadb > geoip.metadb.sha256sum
           sha256sum geoip-lite.metadb > geoip-lite.metadb.sha256sum
+          sha256sum GeoLite2-ASN.mmdb > GeoLite2-ASN.mmdb.sha256sum
 
       - name: Delete current release assets
         uses: andreaswilli/delete-release-assets-action@v3.0.0
