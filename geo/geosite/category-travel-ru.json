@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bilet.nspk.ru",
+        "metro.spb.ru",
+        "mos.transport.vtb.ru",
+        "podorozhnik.spb.ru",
+        "transport.mos.ru",
+        "arenda.yandex.ru",
+        "taxi.yandex.ru"
+      ],
+      "domain_suffix": [
+        "blablacar.ru",
+        "avtovokzaly.ru",
+        "ostrovok.ru",
+        "otello.ru",
+        "gorodpay.ru",
+        "rrtp.ru",
+        "sbertroika.ru",
+        "rzd-bonus.ru",
+        "rzd.ru",
+        "tutu.ru",
+        "avs.io",
+        "aviasales.ru",
+        "aviasales.com",
+        "mosmetro.ru",
+        "mosmetro.tech"
+      ]
+    }
+  ]
+}

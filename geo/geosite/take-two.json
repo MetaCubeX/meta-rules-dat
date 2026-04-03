@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "gamedownloads-rockstargames-com.akamaized.net",
+        "media-rockstargames-com.akamaized.net",
+        "videos-rockstargames-com.akamaized.net"
+      ],
+      "domain_suffix": [
+        "take2games.com",
+        "2k.com",
+        "2kcoretech.online",
+        "2kct.onl",
+        "2kgames.com",
+        "2ksports.com",
+        "2kweb.online",
+        "rockstargames.com",
+        "rockstarnorth.com",
+        "rsg.sc",
+        "zynga.com",
+        "zyngaplayersupport.com",
+        "zyngapoker.com"
+      ]
+    }
+  ]
+}

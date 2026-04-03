@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aboutschwab.com",
+        "schwab.com",
+        "schwabassetmanagement.com",
+        "schwabplan.com",
+        "schwab.co.uk",
+        "schwab.com.hk",
+        "schwab.com.sg"
+      ]
+    }
+  ]
+}

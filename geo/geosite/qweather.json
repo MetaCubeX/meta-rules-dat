@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hecdn.net",
+        "heweather.net",
+        "qweather.com",
+        "qweather.net"
+      ]
+    }
+  ]
+}

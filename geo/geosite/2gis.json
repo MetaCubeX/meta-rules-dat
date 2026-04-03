@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "2gis.cz",
+        "2gis.ae",
+        "2gis.az",
+        "2gis.by",
+        "2gis.com",
+        "2gis.uz",
+        "2gis.am",
+        "2gis.ge",
+        "2gis.ru",
+        "2gis.kz",
+        "2gis.kg",
+        "2gis.tj",
+        "2gis.ua",
+        "2gis.com.cy"
+      ]
+    }
+  ]
+}

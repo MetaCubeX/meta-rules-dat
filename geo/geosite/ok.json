@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "st-ok-pts.cdn-vk.ru",
+        "st-ok.cdn-vk.ru"
+      ],
+      "domain_suffix": [
+        "ok.ru",
+        "okcdn.ru",
+        "mycdn.me"
+      ]
+    }
+  ]
+}

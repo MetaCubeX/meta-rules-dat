@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ehaier.com",
+        "haier.com",
+        "haier.net",
+        "haiersmarthomes.com"
+      ]
+    }
+  ]
+}

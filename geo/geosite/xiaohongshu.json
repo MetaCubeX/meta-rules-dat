@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "redelight.cn",
+        "xhscdn.com",
+        "xhscdn.net",
+        "xhslink.com",
+        "xhsrcdn.com",
+        "xiaohongshu.com",
+        "askdiandian.com",
+        "diandianlife.top",
+        "rednote.com",
+        "rednote.com.my",
+        "rednotecdn.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "uber-assets.com",
+        "uber.com",
+        "ubereats.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gov.ir",
+        "president.ir",
+        "adliran.ir",
+        "bia-judiciary.ir",
+        "hadafmandi.ir",
+        "dadiran.ir",
+        "dadsara.ir",
+        "dadsetani.ir",
+        "divan-edalat.ir",
+        "dmk.ir",
+        "doe.ir",
+        "intamedia.ir",
+        "eadl.ir",
+        "enamad.ir",
+        "bazresi.ir",
+        "shora-gc.ir",
+        "dolat.ir",
+        "irimo.ir",
+        "moi.ir",
+        "mporg.ir",
+        "parliran.ir",
+        "post.ir",
+        "agrieng.org",
+        "refahi.ir",
+        "sahamedalat.ir",
+        "samandehi.ir",
+        "samanese.ir",
+        "sccr.ir",
+        "budget.imo.org.ir"
+      ]
+    }
+  ]
+}

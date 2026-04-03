@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "alfabank.ru",
+        "gazprombank.ru",
+        "gpb.ru",
+        "dbo-dengi.online",
+        "mtsdengi.ru",
+        "psbank.ru",
+        "bankline.ru",
+        "rosbank.ru",
+        "abr.ru",
+        "rshb.ru",
+        "sber.ru",
+        "sberbank.com",
+        "sberbank.ru",
+        "cdn-tinkoff.ru",
+        "tbank-online.com",
+        "tbank.ru",
+        "tochka-tech.com",
+        "tochka.com",
+        "vtb.ru"
+      ]
+    }
+  ]
+}

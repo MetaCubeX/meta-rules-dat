@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "unicom",
+        "xn--8y0a063a",
+        "chinaunicom.com",
+        "wo.cn",
+        "10155.com",
+        "114menhu.com",
+        "169ol.com",
+        "chinaunicom.cn",
+        "10010.com",
+        "wosms.cn",
+        "mychinaunicom.com",
+        "unicompayment.com",
+        "wo116114.com",
+        "wo.com.cn",
+        "10010.com.cn",
+        "wocloud.com.cn",
+        "woread.com.cn",
+        "chinaunicom.com.cn",
+        "chinaunicom.com.hk",
+        "chinaunicomglobal.com",
+        "cuguplus.com",
+        "cuniq.com",
+        "cuniq.sg"
+      ]
+    }
+  ]
+}

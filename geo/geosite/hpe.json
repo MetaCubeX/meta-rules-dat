@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "hpefonts.s3.amazonaws.com",
+      "domain_suffix": [
+        "hewlett-packard.co",
+        "hewlett-packard.jp",
+        "hewlett-packard.asia",
+        "hewlett-packard.ch",
+        "hpecyber.com",
+        "hpe.com",
+        "greenlakehybridcloud.com",
+        "hewlettpackard.enterprises",
+        "greenlakeaas.com",
+        "hewlett-packard.mobi",
+        "hewlett-packard.co.il",
+        "hewlett-packard.com.sg",
+        "hewlett-packard.com.mx",
+        "hewlett-packard.co.uk",
+        "hewlett-packard.com.cn"
+      ]
+    }
+  ]
+}

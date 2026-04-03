@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "huangyuhui.net",
+        "114blog.com",
+        "mryys.com",
+        "mryys.cn",
+        "4thworkshop.com",
+        "4thworkshop.cn",
+        "aloys233.top",
+        "fanmingming.com",
+        "zway.top"
+      ]
+    }
+  ]
+}

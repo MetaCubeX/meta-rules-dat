@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "visa.cn",
+        "visa.com.cn",
+        "financialsoccer.com.cn",
+        "practicalmoneyskills.cn",
+        "practicalmoneyskills.com.cn",
+        "visainfinite.cn",
+        "visapay.cn",
+        "visaplatinum.cn",
+        "visaplatinum.com.cn"
+      ]
+    }
+  ]
+}

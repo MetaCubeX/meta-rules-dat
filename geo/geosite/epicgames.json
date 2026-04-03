@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "3lateral.com",
+        "artstation.com",
+        "capturingreality.com",
+        "cubicmotion.com",
+        "battlebreakers.com",
+        "eac-cdn.com",
+        "easy.ac",
+        "easyanticheat.net",
+        "epicgames.com",
+        "epicgames.dev",
+        "epicgamescdn.com",
+        "fab.com",
+        "fortnite.com",
+        "hyprsense.com",
+        "paragon.com",
+        "playparagon.com",
+        "quixel.com",
+        "quixel.se",
+        "radgametools.com",
+        "realityscan.com",
+        "roborecall.com",
+        "shadowcomplex.com",
+        "sketchfab.com",
+        "spyjinx.com",
+        "twinmotion.com",
+        "unrealengine.com",
+        "unrealtournament.com",
+        "egdownload.fastly-edge.com"
+      ],
+      "domain_regex": [
+        "^epicgames-download\\d\\.akamaized\\.net$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+      ]
+    }
+  ]
+}

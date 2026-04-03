@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "4008-517-517.cn",
+        "mcd.cn",
+        "mcdonalds.com.cn"
+      ]
+    }
+  ]
+}

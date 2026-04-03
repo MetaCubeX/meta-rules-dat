@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "binance.cc",
+        "binance.charity",
+        "binance.cloud",
+        "binance.co",
+        "binance.com",
+        "binance.info",
+        "binance.me",
+        "binance.net",
+        "binance.org",
+        "binance.us",
+        "binance.vision",
+        "binancecnt.com",
+        "binancezh.be",
+        "binancezh.biz",
+        "binancezh.cc",
+        "binancezh.co",
+        "binancezh.com",
+        "binancezh.info",
+        "binancezh.ink",
+        "binancezh.kim",
+        "binancezh.link",
+        "binancezh.live",
+        "binancezh.mobi",
+        "binancezh.net",
+        "binancezh.pro",
+        "binancezh.sh",
+        "binancezh.top",
+        "binanceapi.com",
+        "binanceru.net",
+        "bnbstatic.com",
+        "bntrace.com",
+        "bsappapi.com",
+        "nftstatic.com",
+        "appsflayer.com",
+        "saasexch.cc",
+        "saasexch.co",
+        "saasexch.com",
+        "saasexch.io"
+      ]
+    }
+  ]
+}

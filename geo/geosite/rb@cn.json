@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "reckittbenckiser.cn",
+        "reckittbenckiser.com.cn",
+        "calgon.cn",
+        "clearasil.cn",
+        "clearasil.com.cn",
+        "durex.com.cn",
+        "durexchina.com.cn",
+        "lovesexdurex.cn",
+        "lysol.cn",
+        "lysol.com.cn",
+        "mortein.cn",
+        "movefree.cn",
+        "dettol.com.cn",
+        "dishwashingexpert.com.cn",
+        "finish.com.cn",
+        "enfinitas.com.cn",
+        "meadjohnson.com.cn",
+        "nurofen.cn",
+        "nurofen.com.cn",
+        "vanish.cn",
+        "airwick.com.cn",
+        "veet.cn",
+        "veet.com.cn",
+        "aerogard.com.cn",
+        "strepsils.cn",
+        "strepsils.com.cn",
+        "woolite.cn",
+        "woolite.com.cn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "acousticbrainz.org",
+        "bookbrainz.org",
+        "coverartarchive.org",
+        "critiquebrainz.org",
+        "listenbrainz.org",
+        "messybrainz.org",
+        "metabrainz.org",
+        "musicbrainz.org"
+      ]
+    }
+  ]
+}

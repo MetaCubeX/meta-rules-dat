@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ozon.by",
+        "ozon.com",
+        "ozon.kz",
+        "ozon.ru",
+        "ozon.tm",
+        "ozone.ru",
+        "ozonru.me",
+        "ozonusercontent.com",
+        "ozon.com.by",
+        "ozon.com.kz"
+      ]
+    }
+  ]
+}

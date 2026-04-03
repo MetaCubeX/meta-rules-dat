@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "faradars.org",
+        "git.ir",
+        "learnby.ir",
+        "toplearn.com",
+        "done.ir",
+        "iranlms.org",
+        "webinarplus.online"
+      ]
+    }
+  ]
+}

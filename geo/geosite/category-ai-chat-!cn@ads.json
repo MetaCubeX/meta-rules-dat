@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "o33249.ingest.sentry.io",
+        "browser-intake-datadoghq.com"
+      ]
+    }
+  ]
+}

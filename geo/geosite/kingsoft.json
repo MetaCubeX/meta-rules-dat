@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "kimg.cn",
+        "kingsoft-office-service.com",
+        "kingsoft.com",
+        "ks-live.com",
+        "ksmobile.com",
+        "ksosoft.com",
+        "ks-cdn.com",
+        "ks-cdn1.com",
+        "ksyun.com",
+        "ksyuncdn.com",
+        "ksyungslb.com",
+        "cmcm.com",
+        "cmcmcdn.com",
+        "liebao.cn",
+        "duba.com",
+        "duba.net",
+        "ijinshan.com",
+        "seasungames.com",
+        "xishanju.com",
+        "xoyo.com",
+        "xoyocdn.com",
+        "cbjq.com",
+        "testplus.cn",
+        "wps.cn",
+        "wps.com",
+        "wpscdn.cn",
+        "wpscdn.com",
+        "qwps.cn",
+        "kscord.com",
+        "51dzt.com",
+        "iciba.com",
+        "docer.com",
+        "kdocs.cn",
+        "wpsmail.net",
+        "papocket.com",
+        "wpspdf.cn"
+      ]
+    }
+  ]
+}

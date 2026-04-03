@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "lastfm.freetls.fastly.net",
+      "domain_suffix": "last.fm"
+    }
+  ]
+}

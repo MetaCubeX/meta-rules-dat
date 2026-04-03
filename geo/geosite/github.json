@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "github-api.arkoselabs.com",
+        "github-cloud.s3.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "githubnext.com",
+        "git.io",
+        "atom.io",
+        "ghcr.io",
+        "githubpreview.dev",
+        "github.ai",
+        "github.blog",
+        "github.com",
+        "github.community",
+        "github.dev",
+        "github.io",
+        "githubstatus.com",
+        "githubassets.com",
+        "githubhackathon.com",
+        "gh.io",
+        "dependabot.com",
+        "githubapp.com",
+        "githubuniverse.com",
+        "githubusercontent.com",
+        "myoctocat.com",
+        "octocaptcha.com",
+        "opensource.guide",
+        "repo.new",
+        "thegithubshop.com",
+        "npmjs.org",
+        "githubcopilot.com",
+        "npm.community",
+        "npmjs.com",
+        "blob.core.windows.net",
+        "collector.github.com",
+        "copilot-telemetry.githubusercontent.com"
+      ],
+      "domain_regex": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+    }
+  ]
+}
