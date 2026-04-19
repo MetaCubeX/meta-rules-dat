@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN-SUFFIX,kontur.ru
+    - DOMAIN-SUFFIX,kontur.host
+    - DOMAIN-SUFFIX,kontur-inc.com
+    - DOMAIN,metrika.kontur.ru
+    - DOMAIN,sentry.kontur.host
