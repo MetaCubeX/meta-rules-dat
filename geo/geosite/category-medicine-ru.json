@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mofoms.ru",
+        "polyclinika.ru",
+        "spboms.ru",
+        "emias.ru",
+        "vipmed.ru",
+        "reso-med.com",
+        "reso-med.ru",
+        "klinikabudzdorov.ru",
+        "zub.ru",
+        "emias.info",
+        "mgfoms.ru",
+        "medsi-premium.ru",
+        "medsi.com",
+        "medsi.pro",
+        "medsi.ru",
+        "smartmed.pro",
+        "mosgorzdrav.ru",
+        "oms.karelia.ru",
+        "gorzdrav.spb.ru",
+        "emias.mos.ru"
+      ]
+    }
+  ]
+}

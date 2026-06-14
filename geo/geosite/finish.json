@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "finish.sk",
+        "finishinfo.no",
+        "yarininsuyu.com",
+        "finish.at",
+        "finishkilpailu.fi",
+        "finishinfo.se",
+        "finishinfo.ru",
+        "finisharabia.com",
+        "finish.de",
+        "finish.es",
+        "finish.fr",
+        "finish.gr",
+        "finish.hu",
+        "finishinfo.nl",
+        "finish.pl",
+        "finish.pt",
+        "finish.ro",
+        "finish.si",
+        "finishwin.be",
+        "finish.bg",
+        "finish.lv",
+        "finishdishwashing.ca",
+        "finishdishwashing.com",
+        "finishinfo.be",
+        "finishinfo.cl",
+        "finishinfo.com",
+        "finishinfo.jp",
+        "finishinfo.it",
+        "finishinfo.cz",
+        "finishinfo.fi",
+        "finishinfo.com.au",
+        "finishinfo.com.ar",
+        "finishbrasil.com.br",
+        "finish.com.tr",
+        "finish.com.hr",
+        "finish.co.za",
+        "finish.co.uk",
+        "finish.co.nz",
+        "finish.co.kr",
+        "dishwashingexpert.com.cn",
+        "finish.com.cn"
+      ]
+    }
+  ]
+}

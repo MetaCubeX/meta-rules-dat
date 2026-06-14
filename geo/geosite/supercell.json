@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "haydaygame.com",
+        "brawlstarsgame.com",
+        "mo.co",
+        "clash.com",
+        "clashmini.com",
+        "clashofclans.com",
+        "clashroyale.com",
+        "clashroyaleapp.com",
+        "seeurlpcl.com",
+        "hayday.com",
+        "supr.cl",
+        "brawlstars.com",
+        "gamesfirsthelsinki.com",
+        "squadbusters.com",
+        "supercell.com",
+        "boombeach.com",
+        "supercell.net",
+        "supercellcreators.com",
+        "supercellgames.com",
+        "supercellid.com",
+        "supercellstore.com",
+        "supercell.helpshift.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "widgets.stripst.com",
+      "domain_suffix": [
+        "xhamster.com",
+        "xhamster.desi",
+        "xhamster.xxx",
+        "xhamster18.com",
+        "xhamster18.desi",
+        "xhamster19.com",
+        "xhamster2.com",
+        "xhamster3.com",
+        "xhamsterlive.com",
+        "xhcdn.com",
+        "xhnews.live",
+        "xhpingcdn.com",
+        "xhreal5.com",
+        "collector.xhamster.com"
+      ]
+    }
+  ]
+}

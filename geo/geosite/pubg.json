@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "pubg1.battleye.com",
+      "domain_suffix": [
+        "kraftonde.com",
+        "playbattlegrounds.com",
+        "pubg.com"
+      ]
+    }
+  ]
+}

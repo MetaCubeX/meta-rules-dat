@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "sharepoint.cn",
+        "sharepoint.com",
+        "sharepointonline.com"
+      ]
+    }
+  ]
+}

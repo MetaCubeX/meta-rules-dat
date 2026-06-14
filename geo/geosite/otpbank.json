@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "otpbanka.hr",
+        "dskbank.bg",
+        "ipotekabank.uz",
+        "mobiasbanca.md",
+        "otpbank.al",
+        "otpbank.hu",
+        "otpbank.ru",
+        "ckb.me",
+        "otpbanka.rs",
+        "otpbanka.si",
+        "otpgroup.info",
+        "otpbank.com.ua"
+      ]
+    }
+  ]
+}

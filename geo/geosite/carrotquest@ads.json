@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api-eu.carrotquest.app",
+        "api-eu.carrotquest.io",
+        "api-ru.carrotquest.app",
+        "api-ru.carrotquest.io",
+        "api-secure.carrotquest.app",
+        "api-secure.carrottrack.app",
+        "api.carrotquest.app",
+        "api.carrotquest.io",
+        "api.carrottrack.app",
+        "api.dashly.app",
+        "api.dashlytrack.app"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "calgon.fr",
+        "calgon.ru",
+        "calgon.ie",
+        "calgon.it",
+        "calgon.com",
+        "calgon.at",
+        "calgon.de",
+        "calgon.es",
+        "calgonit.com",
+        "calgon.ch",
+        "calgoncarbon.com",
+        "calgon.nl",
+        "calgon.pt",
+        "calgon.be",
+        "calgon.tv",
+        "calgoncarbon-china.com",
+        "calgon.co.uk",
+        "calgon.com.tr",
+        "calgon.cn"
+      ]
+    }
+  ]
+}

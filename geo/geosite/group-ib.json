@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "groupib.ae",
+        "cert-gib.com",
+        "group-ib.com",
+        "cert-gib.ru",
+        "cybercrimecon.com",
+        "gibdev.net",
+        "g-ib.ae",
+        "g-ib.ru",
+        "g-ib.sg",
+        "g-ib.us",
+        "gib-global.com",
+        "gib.sg",
+        "gibtds.ru",
+        "group-ib.ae",
+        "future-cs.ru",
+        "antiphishing.ru",
+        "group-ib.de",
+        "group-ib.eu",
+        "group-ib.ru",
+        "group-ib.sg",
+        "group-ib.us",
+        "antiphishing.nl",
+        "groupib.sg",
+        "groupib.us",
+        "f6.dev",
+        "f6.ru",
+        "f6.security",
+        "facct.email",
+        "facct.ru",
+        "group-ib.co.uk"
+      ]
+    }
+  ]
+}

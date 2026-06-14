@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "miniso.com",
+        "miniso.pe",
+        "miniso.pk",
+        "miniso-np.com",
+        "miniso-nz.com",
+        "miniso.by",
+        "miniso.ca",
+        "miniso.co",
+        "myminiso.com",
+        "minisokorea.com",
+        "miniso-bh.com",
+        "miniso-au.com",
+        "minisovietam.vn",
+        "minisojordan.com",
+        "minisoindia.com",
+        "miniso.uz",
+        "miniso.ua",
+        "miniso.ge",
+        "miniso.ie",
+        "miniso.jp",
+        "miniso.ma",
+        "miniso.my",
+        "minisothailand.com",
+        "miniso.co.id",
+        "miniso.com.tr",
+        "miniso.com.py",
+        "miniso.com.pl",
+        "miniso.com.mx",
+        "miniso.com.gr",
+        "minisolife.co.za",
+        "miniso.com.es",
+        "miniso.co.tz",
+        "loveminiso.com.br",
+        "miniso.cn",
+        "minisohome.cn",
+        "minsio.cn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn.ampproject.org",
+        "crashlyticsreports-pa.googleapis.com",
+        "firebase-settings.crashlytics.com",
+        "update.crashlytics.com"
+      ],
+      "domain_suffix": [
+        "researchkit.cn",
+        "researchkit.com.cn",
+        "swiftui.cn",
+        "swiftui.com.cn",
+        "cdn.jetbrains.com",
+        "download-cdn.jetbrains.com.cn",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn"
+      ]
+    }
+  ]
+}

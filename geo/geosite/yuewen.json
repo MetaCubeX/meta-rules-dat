@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hongxiu.com",
+        "qdmm.com",
+        "qidian.com",
+        "readnovel.com",
+        "rongshuxia.com",
+        "tingbook.com",
+        "wting.info",
+        "xs.cn",
+        "xs8.cn",
+        "xxsy.net",
+        "yuewen.com",
+        "webnovel.com"
+      ]
+    }
+  ]
+}

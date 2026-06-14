@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "zuoyebang.cc",
+        "zuoyebang.com",
+        "zybang.com",
+        "syh.zybang.com"
+      ]
+    }
+  ]
+}

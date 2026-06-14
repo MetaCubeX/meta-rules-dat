@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "2ch.net",
+        "5ch.net"
+      ]
+    }
+  ]
+}

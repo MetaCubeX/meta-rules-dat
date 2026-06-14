@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "upfos.cn",
+        "jtexpress.com",
+        "upfos.com",
+        "jtfulfillment.cn",
+        "jtfulfillment.com",
+        "jtjms-ae.com",
+        "jtjms-br.com",
+        "jtjms-eg.com",
+        "cr-cts.com",
+        "jtjms-sa.com",
+        "yl-scm.com",
+        "jtexpress.cn",
+        "jtjms-mx.com",
+        "crscm.com",
+        "jet-ego.com",
+        "jet-logistics.com",
+        "jetlogistic.com",
+        "jtg2g.com",
+        "jtexpress.top",
+        "jtexpress.com.cn",
+        "jnt-express.com.cn",
+        "bxexpress.com.cn"
+      ]
+    }
+  ]
+}

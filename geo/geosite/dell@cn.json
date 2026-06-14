@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "afcs.dell.com",
+        "clientperipherals.dell.com",
+        "customization-cdn.dell.com",
+        "dds.dell.com",
+        "dl.dell.com",
+        "ea2cn-dev-outlet.dell.com",
+        "ea2cn-prod-outlet.dell.com",
+        "ea2cn-staging-outlet.dell.com",
+        "fcs.dell.com",
+        "fta.dell.com",
+        "ftaapj.dell.com",
+        "ftaemea.dell.com",
+        "ftasitapj.dell.com",
+        "gbxgateway-dev.dell.com",
+        "gbxgateway.dell.com",
+        "i.dell.com",
+        "nexus.dell.com",
+        "p.cdn.persaas.dell.com",
+        "scene7-cdn.dell.com",
+        "si.cdn.dell.com",
+        "sm.dell.com",
+        "snp.cdn.dell.com",
+        "snpi.dell.com",
+        "supportassist.dell.com",
+        "www-csb.dell.com",
+        "www.dell.com"
+      ],
+      "domain_suffix": [
+        "dell-brand.com",
+        "dell.com.cn",
+        "dell-alw.com",
+        "dellemc.com.cn",
+        "dellmobile.cn",
+        "delltechnologies.com.cn",
+        "platform.dell.com"
+      ]
+    }
+  ]
+}

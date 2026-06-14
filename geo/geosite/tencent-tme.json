@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "kugou.com",
+        "tencentmusic.com",
+        "kugou.net",
+        "lrts.me",
+        "ximalaya.com",
+        "kuwo.cn",
+        "97ting.com",
+        "tingmall.com",
+        "ultimatemusic.cn",
+        "fanxingliveshow.com",
+        "kgimg.com",
+        "kglink.cn",
+        "ktv.com",
+        "kugoo.com",
+        "xmcdn.com",
+        "qqmusic.com",
+        "kugouaudio.com",
+        "kugouipv6.com",
+        "kugoukid.com",
+        "kugouliveshow.com",
+        "kugouringtone.com",
+        "kugousenior.com",
+        "kugoustore.com",
+        "kugouvoice.com",
+        "kugouyouth.com",
+        "koowo.cn",
+        "koowo.com",
+        "y.qq.com",
+        "music.qq.com",
+        "kg.qq.com",
+        "ad.tencentmusic.com",
+        "adstats.tencentmusic.com",
+        "monitor.music.qq.com",
+        "report.tencentmusic.com",
+        "stat.y.qq.com",
+        "tmead.y.qq.com",
+        "tmeadcomm.y.qq.com",
+        "ads.service.kugou.com",
+        "adserviceretry.kglink.cn",
+        "adserviceretry.kugou.com",
+        "adbehavior.ximalaya.com",
+        "adse.wsa.ximalaya.com",
+        "adse.ximalaya.com"
+      ]
+    }
+  ]
+}

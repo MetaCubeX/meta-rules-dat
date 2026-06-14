@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "adeventtracker.spotify.com",
+        "adstudio-assets.scdn.co",
+        "bloodhound.spotify.com"
+      ]
+    }
+  ]
+}

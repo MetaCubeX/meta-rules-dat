@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "gamer2-cds.cdn.hinet.net",
+        "gamer-cds.cdn.hinet.net"
+      ],
+      "domain_suffix": [
+        "bahamut.akamaized.net",
+        "bahamut.com.tw",
+        "gamer.com.tw"
+      ]
+    }
+  ]
+}

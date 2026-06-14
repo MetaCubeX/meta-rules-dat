@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "d33wubrfki0l68.cloudfront.net",
+      "domain_suffix": [
+        "bitballoon.com",
+        "netlify.app",
+        "netlify.com",
+        "netlifystatus.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "chinanews.com",
+        "chinaqw.com",
+        "cnsimg.net",
+        "ecns.cn",
+        "inewsweek.cn",
+        "jwview.com",
+        "xinmeng.info",
+        "chinanews.com.cn",
+        "cns.com.cn"
+      ]
+    }
+  ]
+}

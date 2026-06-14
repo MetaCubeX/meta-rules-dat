@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkbu.hk",
+        "xn--gdt08a.hk",
+        "xn--gdt08a.xn--j6w193g",
+        "xn--fiqs8s1bxp3anr7a.hk",
+        "xn--fiqs8s1bxp3anr7a.xn--j6w193g",
+        "xn--pssu7cv61ahw8aq79bztd.hk",
+        "xn--pssu7cv61ahw8aq79bztd.xn--j6w193g",
+        "hkbu.edu.hk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hik-cloud.com",
+        "hik-express.com",
+        "hikiot.com",
+        "hikmall.com",
+        "hikvision.com",
+        "eziot.com",
+        "ezviz.com",
+        "ys7.com"
+      ]
+    }
+  ]
+}
