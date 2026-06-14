@@ -1,0 +1,7 @@
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn
+DOMAIN,hs.wosms.cn
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-REGEX,^nis.+\.10010\.com$

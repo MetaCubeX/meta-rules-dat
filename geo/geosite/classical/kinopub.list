@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,kpdl.link
+DOMAIN-SUFFIX,ahc.ovh
+DOMAIN-SUFFIX,gfw.ovh
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,smarttvcdn.online
+DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

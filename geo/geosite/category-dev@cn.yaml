@@ -1,0 +1,14 @@
+payload:
+    - +.researchkit.cn
+    - +.researchkit.com.cn
+    - +.swiftui.cn
+    - +.swiftui.com.cn
+    - +.cdn.jetbrains.com
+    - +.download-cdn.jetbrains.com.cn
+    - cdn.ampproject.org
+    - +.microsoftreactor.cn
+    - +.microsoftreactor.com.cn
+    - +.reactorms.com.cn
+    - crashlyticsreports-pa.googleapis.com
+    - firebase-settings.crashlytics.com
+    - update.crashlytics.com
