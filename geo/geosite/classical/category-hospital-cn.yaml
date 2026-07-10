@@ -1,0 +1,9 @@
+payload:
+    - DOMAIN,hospital.pku.edu.cn
+    - DOMAIN,ss.bjmu.edu.cn
+    - DOMAIN-SUFFIX,fuwai.com
+    - DOMAIN-SUFFIX,pkuh6.cn
+    - DOMAIN-SUFFIX,yctdyy.com
+    - DOMAIN-SUFFIX,smuszh.com
+    - DOMAIN-SUFFIX,cd120.com
+    - DOMAIN-SUFFIX,puh3.net.cn

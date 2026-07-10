@@ -1,0 +1,22 @@
+payload:
+    - DOMAIN,abematv.akamaized.net
+    - DOMAIN,ds-linear-abematv.akamaized.net
+    - DOMAIN,ds-vod-abematv.akamaized.net
+    - DOMAIN,linear-abematv.akamaized.net
+    - DOMAIN,vod-abematv.akamaized.net
+    - DOMAIN-SUFFIX,amebaowndme.com
+    - DOMAIN-SUFFIX,amebame.com
+    - DOMAIN-SUFFIX,abema-tv.com
+    - DOMAIN-SUFFIX,winticket.jp
+    - DOMAIN-SUFFIX,abema.io
+    - DOMAIN-SUFFIX,ameba.jp
+    - DOMAIN-SUFFIX,abema.tv
+    - DOMAIN-SUFFIX,amebaownd.com
+    - DOMAIN-SUFFIX,adx.promo
+    - DOMAIN-SUFFIX,ameblo.jp
+    - DOMAIN-SUFFIX,bucketeer.jp
+    - DOMAIN-SUFFIX,dokusho-ojikan.jp
+    - DOMAIN-SUFFIX,hayabusa.dev
+    - DOMAIN-SUFFIX,hayabusa.io
+    - DOMAIN-SUFFIX,hayabusa.media
+    - DOMAIN-SUFFIX,abematv.co.jp
