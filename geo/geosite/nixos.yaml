@@ -1,0 +1,13 @@
+payload:
+    - nix-community.github.io
+    - +.nix.dev
+    - +.nix.store
+    - +.nixcon.org
+    - +.nixcon2017.org
+    - +.nixlang.com
+    - +.nixos.org
+    - +.nixpkgs.org
+    - +.builtwithnix.org
+    - +.mynixos.com
+    - +.nix-community.org
+    - +.nixos.wiki

@@ -1,0 +1,14 @@
+payload:
+    - DOMAIN-SUFFIX,le.com
+    - DOMAIN-SUFFIX,leautolink.com
+    - DOMAIN-SUFFIX,lecloud.com
+    - DOMAIN-SUFFIX,lecloudapi.com
+    - DOMAIN-SUFFIX,lemall.com
+    - DOMAIN-SUFFIX,leso.cn
+    - DOMAIN-SUFFIX,letv.com
+    - DOMAIN-SUFFIX,letvcdn.com
+    - DOMAIN-SUFFIX,letvimg.com
+    - DOMAIN-SUFFIX,apple.www.letv.com
+    - DOMAIN-SUFFIX,ark.letv.com
+    - DOMAIN-SUFFIX,dc.letv.com
+    - DOMAIN-SUFFIX,g3.letv.com
