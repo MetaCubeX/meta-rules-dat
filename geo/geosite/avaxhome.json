@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "avxhm.se",
+        "avh.world",
+        "avxde.org",
+        "avxhm.is",
+        "avxlive.icu",
+        "xsava.xyz",
+        "zavat.pw"
+      ]
+    }
+  ]
+}

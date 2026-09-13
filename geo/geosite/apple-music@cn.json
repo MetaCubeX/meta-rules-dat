@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "amp-api-edge.music.apple.com",
+        "amp-api.music.apple.com",
+        "js-cdn.music.apple.com",
+        "music.apple.com",
+        "musicstatus.music.apple.com",
+        "play.music.apple.com",
+        "speedysub.music.apple.com"
+      ]
+    }
+  ]
+}

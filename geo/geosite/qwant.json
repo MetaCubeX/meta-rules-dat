@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qwant.com",
+        "qwant.de",
+        "qwant.fr",
+        "qwant.it"
+      ]
+    }
+  ]
+}

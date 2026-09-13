@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "coze.com",
+        "marscode.com",
+        "trae.ai",
+        "cici.com",
+        "ciciai.com",
+        "ciciaicdn.com",
+        "dola.com"
+      ]
+    }
+  ]
+}

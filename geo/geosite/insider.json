@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "businessinsider.jp",
+        "businessinsider.mx",
+        "insiderintelligence.com",
+        "insider.com",
+        "businessinsider.de",
+        "businessinsider.es",
+        "businessinsider.com",
+        "businessinsider.fr",
+        "insider-intelligence.com",
+        "businessinsider.in",
+        "businessinsider.my",
+        "businessinsider.nl",
+        "businessinsider.sg",
+        "businessinsider.co.za",
+        "businessinsider.com.pl",
+        "businessinsider.com.au"
+      ]
+    }
+  ]
+}

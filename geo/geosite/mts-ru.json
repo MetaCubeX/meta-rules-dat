@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mts-ws.net",
+        "mts.ru",
+        "mymts.ru",
+        "dbo-dengi.online",
+        "mtsbank.ru",
+        "mtsdengi.ru",
+        "tvoyodbo.online",
+        "kion.ru",
+        "mtsmedia.ru",
+        "on-media.ru",
+        "a.mts.ru",
+        "obs.mts.ru"
+      ]
+    }
+  ]
+}

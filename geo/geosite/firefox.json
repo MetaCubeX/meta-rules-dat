@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "mozilla-ohttp.fastly-edge.com",
+        "mozilla.map.fastly.net"
+      ],
+      "domain_suffix": [
+        "extendfirefox.com",
+        "firefox.com",
+        "firefox.hu",
+        "firefoxtweetmachine.com",
+        "firefoxusercontent.com"
+      ]
+    }
+  ]
+}

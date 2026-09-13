@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mit",
+        "mit.edu",
+        "mit.net",
+        "mitpressjournals.org"
+      ]
+    }
+  ]
+}

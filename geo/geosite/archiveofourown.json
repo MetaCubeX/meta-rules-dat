@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ao3.org",
+        "archiveofourown.org",
+        "archiveofourown.com",
+        "archiveofourown.net"
+      ]
+    }
+  ]
+}

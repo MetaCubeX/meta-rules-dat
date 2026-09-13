@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "archive.today",
+        "archive.fo",
+        "archive.is",
+        "archive.li",
+        "archive.md",
+        "archive.ph",
+        "archive.vn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "amp.akamaized.net",
+        "cdn.ampproject.org"
+      ],
+      "domain_suffix": [
+        "lfai.foundation",
+        "linuxfoundation.org",
+        "kernel.org",
+        "linux.org",
+        "openjsf.org",
+        "nodejs.org",
+        "amp.dev",
+        "ampproject.com",
+        "ampproject.net",
+        "ampproject.org",
+        "electronjs.org",
+        "jquery.com",
+        "jquerymobile.com",
+        "jqueryui.com",
+        "mochajs.org"
+      ]
+    }
+  ]
+}

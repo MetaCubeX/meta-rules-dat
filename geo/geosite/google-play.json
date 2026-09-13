@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "redirector.c.play.google.com",
+      "domain_suffix": [
+        "googleplay.com",
+        "xn--ngstr-lra8j.com",
+        "play-fe.googleapis.com",
+        "play-games.googleusercontent.com",
+        "play-lh.googleusercontent.com",
+        "play.google.com",
+        "play.googleapis.com"
+      ],
+      "domain_regex": [
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
+      ]
+    }
+  ]
+}

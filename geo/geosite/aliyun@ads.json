@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "acjs.aliyun.com",
+        "adash-emas.cn-hangzhou.aliyuncs.com",
+        "adash.man.aliyuncs.com",
+        "alimama.alicdn.com",
+        "atanx.alicdn.com",
+        "atanx2.alicdn.com",
+        "baichuan-sdk.alicdn.com",
+        "nbsdk-baichuan.alicdn.com",
+        "tce.alicdn.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "clarivate.com",
+        "webofknowledge.com",
+        "webofscience.com",
+        "newisiknowledge.com",
+        "isiknowledge.com"
+      ]
+    }
+  ]
+}

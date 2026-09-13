@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cbsi.live.ott.irdeto.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "cbsservice.aws.syncbak.com",
+        "link.theplatform.com"
+      ],
+      "domain_suffix": [
+        "cbs.com",
+        "cbscorporation.com",
+        "cbsi.com",
+        "cbsi.video",
+        "cbsiam.com",
+        "cbsig.net",
+        "cbsimg.net",
+        "cbsinteractive.com",
+        "cbsistatic.com",
+        "cbsivideo.com",
+        "cbsnews.com",
+        "cbspressexpress.com",
+        "cbssports.com",
+        "cbsstatic.com",
+        "cbssvideo.com",
+        "viacbs.com",
+        "viacom.com",
+        "viacomcbs.com",
+        "viacomcbspressexpress.com",
+        "paramount.com",
+        "amlg.io",
+        "cbsaavideo.com",
+        "mtvnservices.com",
+        "paramountplus.com",
+        "pplusstatic.com"
+      ]
+    }
+  ]
+}

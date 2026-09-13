@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "openaiapi-site.azureedge.net",
+        "openaiassets.blob.core.windows.net",
+        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+        "openaicom.imgix.net",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "production-openaicom-storage.azureedge.net",
+        "browser-intake-datadoghq.com",
+        "o33249.ingest.sentry.io",
+        "openai.qualtrics.com"
+      ],
+      "domain_suffix": [
+        "oaiusercontent.com",
+        "chatgpt.com",
+        "chatgpt.site",
+        "crixet.com",
+        "oaistatic.com",
+        "oaistatsig.com",
+        "chat.com",
+        "openai.com",
+        "sora.com",
+        "chatgpt.livekit.cloud",
+        "host.livekit.cloud",
+        "turn.livekit.cloud",
+        "openai.com.cdn.cloudflare.net"
+      ],
+      "domain_regex": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+    }
+  ]
+}

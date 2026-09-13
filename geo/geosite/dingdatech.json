@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "diiing.cn",
+        "dingdachuxing.com",
+        "dingdatech.com",
+        "jintdev.com",
+        "xiangbababus.com"
+      ]
+    }
+  ]
+}

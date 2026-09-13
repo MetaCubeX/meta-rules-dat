@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pec.ir",
+        "vandar.app",
+        "behpardakht.com",
+        "bitbarg.me",
+        "iranicard.ir",
+        "mydigipay.com",
+        "pay.ir",
+        "payping.ir",
+        "asanpardakht.net",
+        "zarinpal.com",
+        "asanpardakht.com",
+        "sep.ir",
+        "shaparak.ir",
+        "sadadpsp.ir",
+        "vandar.io",
+        "weswap.digital",
+        "pep.co.ir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cnbc.com",
+        "cnbcfm.com",
+        "nbcuni.com",
+        "nbcudigitaladops.com"
+      ]
+    }
+  ]
+}

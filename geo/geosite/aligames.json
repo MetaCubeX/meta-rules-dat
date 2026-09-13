@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "9game.cn",
+        "aligames.com",
+        "jiaoyimao.cn",
+        "jiaoyimao.com",
+        "lingxigames.com"
+      ]
+    }
+  ]
+}

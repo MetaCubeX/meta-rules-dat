@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "metart.com",
+        "metartnetwork.com",
+        "metcams.com",
+        "naiadsystems.com",
+        "nsimg.net"
+      ]
+    }
+  ]
+}

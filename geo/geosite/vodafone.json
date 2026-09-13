@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "vodafone.com",
+        "vodafone.de",
+        "vodafone.it",
+        "vodafone.nl",
+        "myvodafone.com.au",
+        "myvodafone.com.ws",
+        "vodafone.co.uk",
+        "vodafone.com.au",
+        "vodafone.com.tr"
+      ]
+    }
+  ]
+}

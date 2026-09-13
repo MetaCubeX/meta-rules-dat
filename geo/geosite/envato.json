@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "envato-static.com",
+        "envato.com",
+        "envatousercontent.com",
+        "themeforest.net"
+      ]
+    }
+  ]
+}

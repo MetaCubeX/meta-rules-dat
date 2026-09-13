@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "androidfilehost.com",
+        "unlocktool.net",
+        "borneo.world",
+        "borneoasia.com",
+        "borneoschematic.com",
+        "bosharso.net",
+        "hostborneo.org",
+        "easy-jtag.com",
+        "z3x-team.com"
+      ]
+    }
+  ]
+}

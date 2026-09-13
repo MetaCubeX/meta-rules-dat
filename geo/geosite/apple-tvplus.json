@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "apple-tv-plus-press.apple.com",
+        "hls-amt.itunes.apple.com",
+        "hls.itunes.apple.com",
+        "np-edge.itunes.apple.com",
+        "play-edge.itunes.apple.com",
+        "tv.applemusic.com",
+        "uts-api.itunes.apple.com"
+      ],
+      "domain_suffix": "tv.apple.com"
+    }
+  ]
+}

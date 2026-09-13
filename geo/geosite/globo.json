@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pegn.com",
+        "globoplay.com",
+        "valorinveste.com",
+        "umsoplaneta.com",
+        "techtudo.com",
+        "revistapegn.com",
+        "autoesporte.com",
+        "revistaepoca.com",
+        "globo.com",
+        "gshow.com",
+        "globorural.com.br",
+        "epocanegocios.com.br",
+        "globoradio.com.br",
+        "globoreporter.com.br",
+        "oglobo.com.br",
+        "globo.com.br",
+        "gshow.com.br",
+        "infoglobo.com.br",
+        "autoesporte.com.br",
+        "oghost.com.br",
+        "revistagalileu.com.br",
+        "pegn.com.br",
+        "radioglobo.com.br",
+        "g1.com.br",
+        "revistaepoca.com.br",
+        "globoplay.com.br",
+        "epoca.com.br",
+        "revistapegn.com.br",
+        "revistaquem.com.br",
+        "revistavalor.com.br",
+        "sgr.com.br",
+        "cbn.com.br",
+        "techtudo.com.br",
+        "cartola.com.br",
+        "umsoplaneta.com.br",
+        "valor.com.br",
+        "valoreconomico.com.br",
+        "bhfm.com.br",
+        "valorinveste.com.br",
+        "xuxaverso.com.br"
+      ]
+    }
+  ]
+}

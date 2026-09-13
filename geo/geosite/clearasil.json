@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "clearasil.us",
+        "clearasil.cn",
+        "clearasil.com.cn"
+      ]
+    }
+  ]
+}
