@@ -1,0 +1,8 @@
+payload:
+    - DOMAIN-SUFFIX,mypikpak.com
+    - DOMAIN-SUFFIX,mypikpak.net
+    - DOMAIN-SUFFIX,pickpackapp.com
+    - DOMAIN-SUFFIX,pikpak.io
+    - DOMAIN-SUFFIX,pikpak.me
+    - DOMAIN-SUFFIX,pikpakdrive.com
+    - DOMAIN,o4504926511693824.ingest.sentry.io

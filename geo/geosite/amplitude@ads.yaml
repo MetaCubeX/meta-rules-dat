@@ -1,0 +1,22 @@
+payload:
+    - +.api-secure.amplitude.com
+    - +.api-secure.eu.amplitude.com
+    - +.api-sr.amplitude.com
+    - +.api-sr.eu.amplitude.com
+    - +.api.amplitude.com
+    - +.api.eu.amplitude.com
+    - +.api2.amplitude.com
+    - +.assistant-api.amplitude.com
+    - +.assistant-api.eu.amplitude.com
+    - +.cdn.amplitude.com
+    - +.cdn.eu.amplitude.com
+    - +.engagement-static.amplitude.com
+    - +.engagement-static.eu.amplitude.com
+    - +.gs.amplitude.com
+    - +.gs.eu.amplitude.com
+    - +.lab.amplitude.com
+    - +.lab.eu.amplitude.com
+    - +.regionconfig.amplitude.com
+    - +.regionconfig.eu.amplitude.com
+    - +.sr-client-cfg.amplitude.com
+    - +.sr-client-cfg.eu.amplitude.com
