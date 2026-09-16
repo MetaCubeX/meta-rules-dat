@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com",
+        "apilog-web.acfun.cn"
+      ],
+      "domain_suffix": [
+        "eckwai.com",
+        "ecukwai.com",
+        "gifshow.com",
+        "inkuai.com",
+        "inkwai.com",
+        "ksapisrv.com",
+        "kskwai.com",
+        "kspkg.com",
+        "kuaishou.cn",
+        "kuaishou.com",
+        "kuaishouapps.com",
+        "kuaishoupay.com",
+        "kuaishouzt.com",
+        "kwaicdn.com",
+        "kwaishop.com",
+        "kwaixiaodian.com",
+        "kwaiying.com",
+        "kwaizt.com",
+        "kwimgs.com",
+        "mojidoc.com",
+        "qingque.cn",
+        "viviv.com",
+        "wskwai.com",
+        "wsukwai.com",
+        "yximgs.com",
+        "ac.fun",
+        "acfun.cn",
+        "acfun.net",
+        "acfunchina.cn",
+        "acfunchina.com",
+        "acfunchina.net",
+        "aixifan.com",
+        "adbkwai.com",
+        "adkwai.com",
+        "adukwai.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com"
+      ]
+    }
+  ]
+}

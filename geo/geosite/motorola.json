@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "motorolacareers.com",
+        "motorola.com",
+        "motorola.ca",
+        "motorola.cl",
+        "motorola.co",
+        "motorolasolutions.com",
+        "hellomoto.com",
+        "motorolanews.com",
+        "moto.com",
+        "motorola.vn",
+        "motorola.gr",
+        "motorola.net",
+        "motorola.it",
+        "motorola.in",
+        "motorola.de",
+        "motorola.es",
+        "motorola.fr",
+        "motorola.co.jp",
+        "motorola.com.pr",
+        "motorola.com.pe",
+        "motorola.com.co",
+        "motorola.com.au",
+        "motorola.co.uk",
+        "motorola.co.th",
+        "motorola.co.id"
+      ]
+    }
+  ]
+}

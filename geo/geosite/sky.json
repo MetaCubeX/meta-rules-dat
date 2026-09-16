@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "sky",
+        "sky.com",
+        "skyassets.com",
+        "skymansion.net",
+        "skyoceanrescue.com",
+        "skyoceanrescue.de",
+        "skyoceanrescue.it",
+        "skysports.com",
+        "skysports.fr",
+        "skysports.ie",
+        "skysportsonline.com",
+        "skysportsracing.com",
+        "cn-cdn1.skymansion.net"
+      ]
+    }
+  ]
+}

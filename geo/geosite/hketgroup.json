@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "etwealth.com",
+        "hket.com",
+        "hketgroup.com",
+        "apexprint.com.hk",
+        "eprc.com.hk",
+        "etbc.com.hk",
+        "etnet.com.hk",
+        "etpress.com.hk",
+        "ettrade.com.hk",
+        "ulifestyle.com.hk",
+        "umagazine.com.hk",
+        "etnet.com.cn",
+        "etnetchina.com.cn"
+      ]
+    }
+  ]
+}

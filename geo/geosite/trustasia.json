@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "51ssl.cn",
+        "51ssl.com",
+        "geossl.cn",
+        "litessl.cn",
+        "litessl.com",
+        "myssl-uri.com",
+        "myssl.com",
+        "trustasia.cn",
+        "trustasia.com",
+        "trustasia.net",
+        "trustasia.com.cn"
+      ]
+    }
+  ]
+}

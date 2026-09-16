@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "amp-api-edge.music.apple.com",
+        "amp-api.music.apple.com",
+        "js-cdn.music.apple.com",
+        "music.apple.com",
+        "musicstatus.music.apple.com",
+        "play.music.apple.com",
+        "speedysub.music.apple.com"
+      ],
+      "domain_suffix": [
+        "applemusic.berlin",
+        "applemusic.co",
+        "applemusic.com",
+        "applemusic.hamburg",
+        "applemusic.wang",
+        "applemusicconnect.com",
+        "applemusicfestival.com",
+        "musickit.net",
+        "wwwapplemusic.com",
+        "applemusic.com.au",
+        "music.apple.com"
+      ]
+    }
+  ]
+}

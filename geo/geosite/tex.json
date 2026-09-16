@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ctan.org",
+        "latex-project.org",
+        "miktex.org",
+        "tug.org"
+      ]
+    }
+  ]
+}

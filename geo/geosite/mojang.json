@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "callersbane.com",
+        "minecraft-services.net",
+        "minecraft.net",
+        "minecraftservices.com",
+        "minecraftshop.com",
+        "mojang.com"
+      ]
+    }
+  ]
+}

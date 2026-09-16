@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "intuit",
+        "quickbooks.com",
+        "myproseries.com",
+        "gopayments.com",
+        "intuit-gopayment.com",
+        "intuit.ca",
+        "turbotax.com",
+        "intuit.com",
+        "turbo.com",
+        "intuit.fr",
+        "intuitaffiliate.com",
+        "payroll.com",
+        "intuitcdn.net",
+        "intuitfullservicepayroll.com",
+        "intuitinnovationday.com",
+        "intuitlabs.com",
+        "intuitpayments.com",
+        "gopayment.com",
+        "mailchimp.com",
+        "intuitbenefits.com",
+        "proseries.com",
+        "quickbooksonline.com",
+        "quickbooksenligne.ca",
+        "quickbooks2000.com",
+        "creditkarma.com",
+        "quickbooks.in",
+        "quickbooks.fr",
+        "quickbooks.com.br",
+        "quickbooks.com.au",
+        "quickbooks.co.za",
+        "quickbooks.co.uk",
+        "quickbooksgetconnected.co.za",
+        "quickbook.com.br",
+        "intuit.com.au",
+        "intuit.co.uk"
+      ]
+    }
+  ]
+}

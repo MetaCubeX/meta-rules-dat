@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "missav.ai",
+        "missav.com",
+        "missav.live",
+        "missav.uno",
+        "missav.vip",
+        "missav.ws",
+        "missav123.com"
+      ]
+    }
+  ]
+}

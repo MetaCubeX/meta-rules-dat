@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "durex.com.cn",
+        "durexchina.com.cn",
+        "lovesexdurex.cn"
+      ]
+    }
+  ]
+}

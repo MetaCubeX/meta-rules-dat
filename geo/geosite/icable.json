@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "i-cablecomm.com",
+        "fantv.hk",
+        "hkopentv.com",
+        "hoy.tv",
+        "i-cable.com",
+        "cabletv.com.hk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "rebates.jp",
+        "rrcbsn.com",
+        "r10s.jp",
+        "rakuten-static.com",
+        "rakuten.ca",
+        "vbcdn.net",
+        "rakuten.com",
+        "vbcdn.com",
+        "viber.me",
+        "rakuten.tv",
+        "rakuten.tw",
+        "rakutenadvertising.com",
+        "rakutengiftcards.ca",
+        "bfads.net",
+        "r10s.com",
+        "ebates.sg",
+        "ecbsn.com",
+        "ebatescanada.com",
+        "ebates.kr",
+        "fatwallet.com",
+        "rclon.com",
+        "buyservices.com",
+        "ebates.ca",
+        "kobo.com",
+        "viki.com",
+        "viber.com",
+        "viber.co",
+        "rakuten.ne.jp",
+        "rakuten.com.tw",
+        "rakuten.co.jp"
+      ]
+    }
+  ]
+}
