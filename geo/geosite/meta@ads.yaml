@@ -1,0 +1,8 @@
+payload:
+    - +.graph.instagram.com
+    - +.graph-fallback.instagram.com
+    - +.graph.whatsapp.com
+    - +.graph.whatsapp.net
+    - +.analytics.facebook.com
+    - +.facebookads.com
+    - +.pixel.facebook.com

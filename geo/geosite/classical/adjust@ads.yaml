@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN-SUFFIX,adjust.com
+    - DOMAIN-SUFFIX,adjust.io
+    - DOMAIN-SUFFIX,adjust.net.in
+    - DOMAIN-SUFFIX,adjust.world

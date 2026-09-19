@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN-SUFFIX,getsentry.com
+    - DOMAIN-SUFFIX,sentry.dev
+    - DOMAIN-SUFFIX,sentry.io
+    - DOMAIN-SUFFIX,sentry-cdn.com
