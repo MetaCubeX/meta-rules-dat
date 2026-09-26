@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "11222.cn",
+        "aliwx.net",
+        "ishuqi.com",
+        "newstjk.com",
+        "shuqi.com",
+        "shuqiapi.com",
+        "shuqiread.com",
+        "shuqireader.com",
+        "shuqistat.com",
+        "sqreader.com",
+        "aliwx.com.cn"
+      ]
+    }
+  ]
+}

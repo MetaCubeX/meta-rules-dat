@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "datarouter.apps.netherrealm.com",
+        "wb-agora-hydra-file-storage-k1.s3.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "warnerbrosgames.com",
+        "wbagora.com",
+        "wbgames.com",
+        "wbinsights.com"
+      ]
+    }
+  ]
+}

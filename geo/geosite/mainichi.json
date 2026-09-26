@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "machigoto.jp",
+        "mainichi-athletepartners.jp",
+        "mainichi.jp",
+        "mainichibooks.com",
+        "meijinsen.jp",
+        "mirailab.tech",
+        "mottainai.info",
+        "newsgawakaru.com",
+        "weekly-economist.com",
+        "sponichi.co.jp"
+      ]
+    }
+  ]
+}

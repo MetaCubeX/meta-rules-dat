@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "futu.cn",
+        "futu.link",
+        "futu5.com",
+        "futuau.com",
+        "futuesop.com",
+        "futufin.com",
+        "futuhk.com",
+        "futuhk1.com",
+        "futuhk2.com",
+        "futuhkapp.com",
+        "futuhn.com",
+        "futuholdings.com",
+        "futuniuniu.com",
+        "futunn.com",
+        "futuoa.com",
+        "futusg.com",
+        "futustatic.com",
+        "fututrade.com",
+        "moomoo.com",
+        "moomooequity.com",
+        "moomootrustee.com"
+      ]
+    }
+  ]
+}

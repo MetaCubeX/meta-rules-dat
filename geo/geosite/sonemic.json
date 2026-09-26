@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "glitchwave.com",
+        "rateyourmusic.com",
+        "rym.fm",
+        "snmc.io",
+        "sonematic.net",
+        "sonemic.com"
+      ]
+    }
+  ]
+}

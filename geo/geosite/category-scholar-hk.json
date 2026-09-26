@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "xn--fiqs8s1bxp3anr7a.hk",
+        "xn--wcvs22d1m.hk",
+        "polyu.hk",
+        "xn--pssu7ci2j23mp9ny48b.xn--j6w193g",
+        "xn--pssu7ci2j23mp9ny48b.hk",
+        "hkust.hk",
+        "xn--pssu7cv61af44b.xn--j6w193g",
+        "cityu.hk",
+        "xn--uis44a.xn--j6w193g",
+        "xn--pssu7cv61af44b.hk",
+        "hku.hk",
+        "cuhk.hk",
+        "xn--mxtq18a.hk",
+        "xn--mxtq18a.xn--j6w193g",
+        "xn--fiqs8s1byzqyvl.hk",
+        "xn--fiqs8s1byzqyvl.xn--j6w193g",
+        "xn--pssu7cv61ahwcb1p2yk.hk",
+        "xn--wcv22d.xn--j6w193g",
+        "xn--pssu7cv61ahw8aq79bztd.xn--j6w193g",
+        "eduhk.hk",
+        "xn--wcvs22d.xn--j6w193g",
+        "xn--wcv22d.hk",
+        "xn--pssu7cv61ahwcb1p2yk.xn--j6w193g",
+        "xn--wcvs22d1m.xn--j6w193g",
+        "xn--pssu7cv61af1tcs59bnvd.hk",
+        "xn--pssu7cv61af1tcs59bnvd.xn--j6w193g",
+        "xn--pssu7cv61ahw8aq79bztd.hk",
+        "hkbu.hk",
+        "xn--gdt08a.hk",
+        "xn--gdt08a.xn--j6w193g",
+        "edu.hk",
+        "xn--fiqs8s1bxp3anr7a.xn--j6w193g"
+      ]
+    }
+  ]
+}

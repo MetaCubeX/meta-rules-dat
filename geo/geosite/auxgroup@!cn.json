@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aufit-air.com",
+        "aux-global.com",
+        "auxair.com",
+        "auxcac.cn",
+        "auxsmart.com",
+        "sanxingelectric.com",
+        "shinflow.com"
+      ]
+    }
+  ]
+}

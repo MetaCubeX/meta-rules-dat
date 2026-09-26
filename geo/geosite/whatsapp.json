@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "wa.me",
+        "whatsapp-plus.info",
+        "whatsapp-plus.me",
+        "whatsapp-plus.net",
+        "whatsapp.cc",
+        "whatsapp.com",
+        "whatsapp.info",
+        "whatsapp.net",
+        "whatsapp.org",
+        "whatsapp.tv",
+        "whatsappbrand.com",
+        "graph.whatsapp.com",
+        "graph.whatsapp.net"
+      ]
+    }
+  ]
+}

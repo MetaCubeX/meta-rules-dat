@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "razerapi.com",
+        "razersynapse.com",
+        "razerzone.com"
+      ]
+    }
+  ]
+}

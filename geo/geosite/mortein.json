@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mortein.com",
+        "morteincam.com",
+        "pifpafarabia.com",
+        "mortein.co.in",
+        "mortein.co.nz",
+        "mortein.co.za",
+        "mortein.com.au",
+        "mortein.com.br",
+        "mortein.com.ng",
+        "mortein.com.pk",
+        "mortein.cn"
+      ]
+    }
+  ]
+}

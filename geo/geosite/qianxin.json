@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "95015.com",
+        "qianxin.com",
+        "qianxincdn.com",
+        "seclab.online",
+        "tianshucup.com",
+        "ceati.org.cn",
+        "datacon.org.cn"
+      ]
+    }
+  ]
+}
