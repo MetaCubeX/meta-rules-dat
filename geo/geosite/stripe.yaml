@@ -1,0 +1,9 @@
+payload:
+    - +.link.com
+    - +.stripe-terminal-local-reader.net
+    - +.stripe.com
+    - +.stripe.dev
+    - +.stripe.events
+    - +.stripe.global
+    - +.stripe.network
+    - +.stripecdn.com

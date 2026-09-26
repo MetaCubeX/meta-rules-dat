@@ -1,0 +1,17 @@
+payload:
+    - DOMAIN-SUFFIX,iteye.com
+    - DOMAIN-SUFFIX,gitcode.com
+    - DOMAIN-SUFFIX,csdn.com
+    - DOMAIN-SUFFIX,csdn.net
+    - DOMAIN-SUFFIX,kaifayun.com
+    - DOMAIN-SUFFIX,csdnimg.cn
+    - DOMAIN-SUFFIX,codechina.net
+    - DOMAIN-SUFFIX,gitchat.cn
+    - DOMAIN-SUFFIX,gitbook.cn
+    - DOMAIN-SUFFIX,datasea.cn
+    - DOMAIN-SUFFIX,csto.com
+    - DOMAIN-SUFFIX,gitcode.net
+    - DOMAIN-SUFFIX,atomgit.com
+    - DOMAIN-SUFFIX,csdn.net.cn
+    - DOMAIN-SUFFIX,programmer.com.cn
+    - DOMAIN-SUFFIX,programmer.net.cn
