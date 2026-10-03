@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,collector.github.com
+    - DOMAIN,copilot-telemetry-service.githubusercontent.com
+    - DOMAIN,copilot-telemetry.githubusercontent.com

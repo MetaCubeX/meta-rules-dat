@@ -1,0 +1,11 @@
+payload:
+    - DOMAIN-SUFFIX,captive.apple.com
+    - DOMAIN,www.gstatic.com
+    - DOMAIN,connectivitycheck.platform.hihonorcloud.com
+    - DOMAIN,connectivitycheck.platform.hicloud.com
+    - DOMAIN,connect.rom.miui.com
+    - DOMAIN,conn1.oppomobile.com
+    - DOMAIN,conn2.oppomobile.com
+    - DOMAIN,www.qualcomm.cn
+    - DOMAIN,connectivity.samsung.com.cn
+    - DOMAIN,wifi.vivo.com.cn

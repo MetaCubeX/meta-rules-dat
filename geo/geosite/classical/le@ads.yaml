@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN-SUFFIX,apple.www.letv.com
+    - DOMAIN-SUFFIX,ark.letv.com
+    - DOMAIN-SUFFIX,dc.letv.com
+    - DOMAIN-SUFFIX,g3.letv.com

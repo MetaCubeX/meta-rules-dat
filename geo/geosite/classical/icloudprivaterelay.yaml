@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,mask-api.icloud.com
+    - DOMAIN-SUFFIX,mask-h2.icloud.com
+    - DOMAIN-SUFFIX,mask.icloud.com

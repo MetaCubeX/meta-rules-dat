@@ -1,0 +1,10 @@
+payload:
+    - DOMAIN,disney.my.sentry.io
+    - DOMAIN-SUFFIX,analytics.tiktok.com
+    - DOMAIN-SUFFIX,ads.youtube.com
+    - DOMAIN-SUFFIX,insights-collector.gog.com
+    - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+    - DOMAIN,adeventtracker.spotify.com
+    - DOMAIN,adstudio-assets.scdn.co
+    - DOMAIN,bloodhound.spotify.com
+    - DOMAIN-SUFFIX,ads-pixiv.net

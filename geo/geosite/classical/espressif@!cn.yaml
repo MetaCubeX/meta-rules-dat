@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,esp32.com
+    - DOMAIN-SUFFIX,esp8266.com
+    - DOMAIN-SUFFIX,espressif.com

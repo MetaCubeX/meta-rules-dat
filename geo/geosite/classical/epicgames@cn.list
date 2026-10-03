@@ -1,0 +1,2 @@
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
