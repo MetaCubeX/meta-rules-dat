@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "anexia.at",
+        "anexia.com",
+        "anexia-engine.com",
+        "anexia-it.com",
+        "fifthns.com",
+        "firstns.cc",
+        "fourthns.systems",
+        "secondns.at",
+        "thirdns.de",
+        "bestsrv.de",
+        "customercontrolpanel.de",
+        "dnsserver1.de",
+        "dnsserver2.de",
+        "goodsrv.de",
+        "happysrv.de",
+        "hotsrv.de",
+        "luckysrv.de",
+        "megasrv.de",
+        "netcup.cafe",
+        "netcup.com",
+        "netcup.de",
+        "netcup.eu",
+        "netcup.net",
+        "netcup-news.de",
+        "netcup-sonderangebote.de",
+        "netcup-wiki.de",
+        "nicesrv.de",
+        "powersrv.de",
+        "quicksrv.de",
+        "servercontrolpanel.de",
+        "supersrv.de",
+        "ultrasrv.de",
+        "yourvserver.net"
+      ]
+    }
+  ]
+}

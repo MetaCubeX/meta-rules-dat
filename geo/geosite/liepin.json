@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "liepin.com",
+        "lietou.com",
+        "lietou-static.com"
+      ]
+    }
+  ]
+}

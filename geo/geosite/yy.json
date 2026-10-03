@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "yy.com",
+        "yystatic.com",
+        "duowan.com",
+        "dwstatic.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "baltamatica.cn",
+        "baltamatica.net",
+        "baltamatica.com",
+        "baltamatica.org.cn"
+      ]
+    }
+  ]
+}

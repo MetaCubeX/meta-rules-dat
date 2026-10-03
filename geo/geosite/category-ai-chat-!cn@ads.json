@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "browser-intake-datadoghq.com",
+        "o33249.ingest.sentry.io",
+        "openai.qualtrics.com",
+        "copilot-telemetry-service.githubusercontent.com",
+        "copilot-telemetry.githubusercontent.com"
+      ]
+    }
+  ]
+}

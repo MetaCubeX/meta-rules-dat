@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "didi-food.com",
+        "didiaustralia.blog",
+        "didiglobal.com",
+        "didimobility.co.jp"
+      ]
+    }
+  ]
+}
