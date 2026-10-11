@@ -1,0 +1,9 @@
+payload:
+    - +.cafe.github.com
+    - +.collector.github.com
+    - copilot-telemetry-service.githubusercontent.com
+    - copilot-telemetry.githubusercontent.com
+    - copilot-telemetry-service.githubusercontent.com
+    - copilot-telemetry.githubusercontent.com
+    - incoming.telemetry.mozilla.org
+    - incoming-telemetry.thunderbird.net

@@ -1,0 +1,12 @@
+payload:
+    - +.api.global.bilibili.com
+    - +.apm-misaka.biliapi.net
+    - +.app.global.bilibili.com
+    - +.bilibili.tv
+    - +.biliintl.com
+    - +.bstarstatic.com
+    - +.p-bstarstatic.akamaized.net
+    - +.upos-bstar-mirrorakam.akamaized.net
+    - +.upos-bstar1-mirrorakam.akamaized.net
+    - +.upos-sz-mirroralibstar1.bilivideo.com
+    - +.upos-sz-mirrorcosbstar1.bilivideo.com

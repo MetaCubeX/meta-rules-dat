@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN,client-teamviewer-com.trafficmanager.net
+    - DOMAIN,teamviewer.com.cdn.cloudflare.net
+    - DOMAIN-SUFFIX,teamviewer.com
+    - DOMAIN-SUFFIX,teamviewer.us
+    - DOMAIN-SUFFIX,teamviewer.cn

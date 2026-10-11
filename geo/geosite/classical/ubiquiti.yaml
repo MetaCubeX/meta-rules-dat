@@ -1,0 +1,14 @@
+payload:
+    - DOMAIN-SUFFIX,amplifi.com
+    - DOMAIN-SUFFIX,frontrow.com
+    - DOMAIN-SUFFIX,ubncloud.com
+    - DOMAIN-SUFFIX,ui.com
+    - DOMAIN-SUFFIX,uisp.com
+    - DOMAIN-SUFFIX,wifiman.com
+    - DOMAIN-SUFFIX,amplifi.com.cn
+    - DOMAIN-SUFFIX,frontrow.com.cn
+    - DOMAIN-SUFFIX,ubnt.com
+    - DOMAIN-SUFFIX,ubnt.com.cn
+    - DOMAIN-SUFFIX,ui.com.cn
+    - DOMAIN-SUFFIX,uum.com.cn
+    - DOMAIN-SUFFIX,uwn.com
