@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "gog-cdn-lumen.secure2.footprint.net",
+        "gog-cdn.akamaized.net",
+        "gog.qtlglb.com"
+      ],
+      "domain_suffix": [
+        "gog.com",
+        "gog-services.com",
+        "gog-statics.com",
+        "gogalaxy.com",
+        "insights-collector.gog.com"
+      ]
+    }
+  ]
+}

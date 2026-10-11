@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tianpeng.com",
+        "zbj.com",
+        "zbjdev.com",
+        "zbjimg.com",
+        "zhubajie.com"
+      ]
+    }
+  ]
+}

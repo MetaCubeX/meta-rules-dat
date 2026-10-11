@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "radiko-cf.com",
+        "radiko.jp",
+        "smartstream.ne.jp"
+      ]
+    }
+  ]
+}

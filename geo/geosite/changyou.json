@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "17173.com",
+        "17173cdn.com",
+        "changyou.com",
+        "cy.com",
+        "playcool.com",
+        "yeyou.com",
+        "yeyoucdn.com"
+      ]
+    }
+  ]
+}

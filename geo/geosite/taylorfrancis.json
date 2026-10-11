@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tandfonline.com",
+        "taylorandfrancis.com",
+        "taylorfrancis.com",
+        "tandf.co.uk"
+      ]
+    }
+  ]
+}

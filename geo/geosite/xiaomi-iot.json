@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "miot-spec.org",
+        "account.xiaomi.com",
+        "cn-ha.mqtt.io.mi.com",
+        "ha.api.io.mi.com"
+      ]
+    }
+  ]
+}

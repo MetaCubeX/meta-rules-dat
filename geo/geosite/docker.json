@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com",
+        "docker-pinata-support.s3.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "compose-spec.io",
+        "docker.com",
+        "docker.io",
+        "dockerstatic.com"
+      ]
+    }
+  ]
+}

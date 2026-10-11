@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "comss.club",
+        "comss.info",
+        "comss.me",
+        "comss.net",
+        "comss.news",
+        "comss.one",
+        "comss.online",
+        "comss.org",
+        "comss.ru"
+      ]
+    }
+  ]
+}

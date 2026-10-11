@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "laohu.com",
+        "pwrd.com",
+        "wanmei.com",
+        "wmsj.cn",
+        "wmupd.com",
+        "allhistory.com",
+        "chengjiaxiangqin.cn",
+        "perfectlingo.com",
+        "pwcinema.com",
+        "pwesports.cn",
+        "111.com",
+        "88.com",
+        "88y.cn",
+        "email.cn"
+      ]
+    }
+  ]
+}

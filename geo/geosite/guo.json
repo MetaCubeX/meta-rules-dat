@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "himalaya-exchange.zendesk.com",
+      "domain_suffix": [
+        "g-tvapp.com",
+        "gclubs.com",
+        "gettr.com",
+        "gfashion.com",
+        "gnews.org",
+        "gtv.org",
+        "gtv1.org",
+        "gtvmediagroupfairfund.com",
+        "guo.media",
+        "gwiki.net",
+        "gwins.org",
+        "himalaya.exchange",
+        "hpayshop.com",
+        "nfsc.global",
+        "nfscdict.com",
+        "nfscofficial.com",
+        "rexcha.com",
+        "rolfoundation.org",
+        "rolsociety.org",
+        "yiqiedoushiganggangkaishi.org"
+      ]
+    }
+  ]
+}

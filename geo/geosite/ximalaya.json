@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ximalaya.com",
+        "xmcdn.com",
+        "adbehavior.ximalaya.com",
+        "adse.wsa.ximalaya.com",
+        "adse.ximalaya.com"
+      ]
+    }
+  ]
+}

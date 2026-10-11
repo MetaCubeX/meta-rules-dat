@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "aweencore.com",
+        "awetv.com",
+        "herringnetwork.com",
+        "oanencore.com",
+        "oann.com"
+      ]
+    }
+  ]
+}

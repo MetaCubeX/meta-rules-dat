@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "konamionline.com",
+        "konamigaming.net",
+        "kiwi.jp",
+        "konamigaming.com",
+        "yugioh-card.com",
+        "konami.com",
+        "konami.net",
+        "konami.org",
+        "kgisystems.com",
+        "konamicrossmedia.com",
+        "konami-igaming.online",
+        "konamigaming.online",
+        "573.jp",
+        "konamiopen.jp",
+        "konamisportsclub.jp",
+        "konamistyle.jp",
+        "resella.jp",
+        "resellablue.com",
+        "konami.co.jp"
+      ]
+    }
+  ]
+}

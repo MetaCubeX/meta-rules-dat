@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nikke-de.com",
+        "nikke-en.com",
+        "nikke-fr.com",
+        "nikke-jp.com",
+        "nikke-kr.com",
+        "nikke-sea.com"
+      ]
+    }
+  ]
+}

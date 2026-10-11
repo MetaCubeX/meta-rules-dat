@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn.ampproject.org",
+        "crashlyticsreports-pa.googleapis.com",
+        "firebase-settings.crashlytics.com",
+        "update.crashlytics.com",
+        "download.visualstudio.microsoft.com",
+        "cdn.apple-mapkit.com",
+        "cdn1.apple-mapkit.com",
+        "cdn2.apple-mapkit.com",
+        "cdn3.apple-mapkit.com",
+        "cdn4.apple-mapkit.com",
+        "cdn-cn.apple-mapkit.com",
+        "cdn-cn1.apple-mapkit.com",
+        "cdn-cn2.apple-mapkit.com",
+        "cdn-cn3.apple-mapkit.com",
+        "cdn-cn4.apple-mapkit.com"
+      ],
+      "domain_suffix": [
+        "jetbrains.com.cn",
+        "cdn.jetbrains.com",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn",
+        "researchkit.cn",
+        "researchkit.com.cn",
+        "swiftui.cn",
+        "swiftui.com.cn"
+      ]
+    }
+  ]
+}
