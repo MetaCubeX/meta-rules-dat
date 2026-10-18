@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,avs.io
+    - DOMAIN-SUFFIX,aviasales.ru
+    - DOMAIN-SUFFIX,aviasales.com

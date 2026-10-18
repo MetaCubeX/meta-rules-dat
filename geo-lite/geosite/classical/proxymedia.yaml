@@ -1,0 +1,27 @@
+payload:
+    - DOMAIN-KEYWORD,abematv.akamaized.net
+    - DOMAIN-KEYWORD,anthropic
+    - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+    - DOMAIN-KEYWORD,avoddashs
+    - DOMAIN-KEYWORD,bbcfmt
+    - DOMAIN-KEYWORD,claude
+    - DOMAIN-KEYWORD,discovery.uplynk.com
+    - DOMAIN-KEYWORD,dualstack.apiproxy-
+    - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+    - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+    - DOMAIN-KEYWORD,hbogoasia
+    - DOMAIN-KEYWORD,japonx
+    - DOMAIN-KEYWORD,japronx
+    - DOMAIN-KEYWORD,jooxweb-api
+    - DOMAIN-KEYWORD,netflixdnstest
+    - DOMAIN-KEYWORD,nivod
+    - DOMAIN-KEYWORD,nowtv100
+    - DOMAIN-KEYWORD,olevod
+    - DOMAIN-KEYWORD,rthklive
+    - DOMAIN-KEYWORD,spotify
+    - DOMAIN-KEYWORD,tiktokcdn
+    - DOMAIN-KEYWORD,ttvnw
+    - DOMAIN-KEYWORD,tvbanywhere
+    - DOMAIN-KEYWORD,uk-live
+    - DOMAIN-KEYWORD,voddazn
+    - DOMAIN-KEYWORD,youtube
