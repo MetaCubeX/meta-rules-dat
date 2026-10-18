@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nurofen.cn",
+        "nurofen.com.cn"
+      ]
+    }
+  ]
+}

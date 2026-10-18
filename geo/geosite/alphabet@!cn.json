@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "alt1-mtalk.google.com",
+        "alt2-mtalk.google.com",
+        "alt3-mtalk.google.com",
+        "alt4-mtalk.google.com",
+        "alt5-mtalk.google.com",
+        "alt6-mtalk.google.com",
+        "mtalk.google.com"
+      ]
+    }
+  ]
+}

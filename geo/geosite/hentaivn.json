@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hentaivn.de",
+        "hentaivn.la",
+        "hentaivn.net",
+        "htvncdn.net"
+      ]
+    }
+  ]
+}

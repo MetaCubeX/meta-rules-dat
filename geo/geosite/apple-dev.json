@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "notary-submissions-prod.s3-accelerate.amazonaws.com",
+        "notary-submissions-prod.s3.us-west-2.amazonaws.com",
+        "appleworldwidedeveloper.hb-api.omtrdc.net",
+        "appleworldwidedeveloper.sc.omtrdc.net",
+        "p-events-delivery.akamaized.net",
+        "cdn.apple-mapkit.com",
+        "cdn1.apple-mapkit.com",
+        "cdn2.apple-mapkit.com",
+        "cdn3.apple-mapkit.com",
+        "cdn4.apple-mapkit.com",
+        "cdn-cn.apple-mapkit.com",
+        "cdn-cn1.apple-mapkit.com",
+        "cdn-cn2.apple-mapkit.com",
+        "cdn-cn3.apple-mapkit.com",
+        "cdn-cn4.apple-mapkit.com"
+      ],
+      "domain_suffix": [
+        "macruby.com",
+        "macruby.net",
+        "cups.org",
+        "swift.org",
+        "appleswift.com",
+        "webobjects.com",
+        "wpewebkit.org",
+        "calendarserver.org",
+        "foundationdb.org",
+        "macruby.org",
+        "apple-cloudkit.com",
+        "webkit.org",
+        "macosforge.org",
+        "apple-mapkit.com",
+        "webkitgtk.org",
+        "carekit.org",
+        "researchandcare.org",
+        "researchkit.hk",
+        "researchkit.net",
+        "researchkit.org",
+        "researchkit.tv",
+        "servicetalk.io",
+        "timestamp.apple.com",
+        "playgrounds-cdn.apple.com",
+        "developerservices2.apple.com",
+        "devstreaming-cdn.apple.com",
+        "devimages-cdn.apple.com",
+        "developer.apple.com",
+        "researchkit.cn",
+        "researchkit.com.cn",
+        "swiftui.cn",
+        "swiftui.com.cn"
+      ]
+    }
+  ]
+}

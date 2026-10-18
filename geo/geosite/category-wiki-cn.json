@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "huijiwiki.com",
+        "mcmod.cn",
+        "jikipedia.com",
+        "mbalib.com",
+        "sec-wiki.com",
+        "shidianbaike.com",
+        "fgo.wiki",
+        "chaz.fun",
+        "allhistory.com",
+        "huijistatic.com",
+        "moegirl.org",
+        "zdic.net",
+        "pwsannong.com",
+        "qiuwenbaike.cn",
+        "qiuwen.wiki",
+        "moegirl.org.cn"
+      ]
+    }
+  ]
+}

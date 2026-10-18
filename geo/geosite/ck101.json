@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ck101.com",
+        "ckcdn.com",
+        "ckck.fun"
+      ]
+    }
+  ]
+}

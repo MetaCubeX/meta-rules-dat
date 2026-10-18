@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jiuyue919.com",
+        "qimao.com",
+        "qm989.com",
+        "qmniu.com",
+        "quehu.com",
+        "wtzw.com"
+      ]
+    }
+  ]
+}

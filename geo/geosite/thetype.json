@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "thetype.com",
+        "typeisbeautiful.com",
+        "thetype.cloud"
+      ]
+    }
+  ]
+}

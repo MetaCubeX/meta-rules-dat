@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mosgorzdrav.ru",
+        "aptekiplus.ru",
+        "zdravcity.ru",
+        "emias.ru",
+        "vipmed.ru",
+        "reso-med.com",
+        "reso-med.ru",
+        "mgfoms.ru",
+        "spboms.ru",
+        "uteka.ru",
+        "zub.ru",
+        "medsi-premium.ru",
+        "medsi.com",
+        "medsi.pro",
+        "medsi.ru",
+        "smartmed.pro",
+        "emias.info",
+        "polyclinika.ru",
+        "mofoms.ru",
+        "b17.ru",
+        "reaviz.com",
+        "reaviz.ru",
+        "stolichki.ru",
+        "apteka.ru",
+        "apteka-april.ru",
+        "klinikabudzdorov.ru",
+        "farmlend.ru",
+        "gorzdrav.org",
+        "megapteka.ru",
+        "planetazdorovo.ru",
+        "pz.help",
+        "gorzdrav.spb.ru",
+        "oms.karelia.ru",
+        "emias.mos.ru"
+      ]
+    }
+  ]
+}

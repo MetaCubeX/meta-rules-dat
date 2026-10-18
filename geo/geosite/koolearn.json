@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "koocdn.com",
+        "koolearn.com",
+        "koopass.com"
+      ]
+    }
+  ]
+}

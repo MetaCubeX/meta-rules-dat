@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ro.com",
+        "xd.cn",
+        "xd.com",
+        "xdcdn.net",
+        "xindong.com",
+        "tapapks.com",
+        "tapimg.com",
+        "tapimg.net",
+        "taptap.cn",
+        "taptap.com",
+        "taptapdada.com",
+        "taptap.io"
+      ]
+    }
+  ]
+}

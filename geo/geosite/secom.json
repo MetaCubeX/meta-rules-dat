@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "secomtrust.net",
+        "secom.co.jp",
+        "managedpki.ne.jp"
+      ]
+    }
+  ]
+}

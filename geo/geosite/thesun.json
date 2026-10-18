@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dreamteamfc.com",
+        "page3.com",
+        "talksport.com",
+        "thesun.ie",
+        "sunbingo.co.uk",
+        "thescottishsun.co.uk",
+        "thesun.co.uk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gofile.me",
+        "quickconnect.to",
+        "synology.com",
+        "synologydownload.com",
+        "synologyupdate.com",
+        "diskstation.me",
+        "dscloud.biz",
+        "dscloud.me",
+        "dscloud.mobi",
+        "dsmynas.com",
+        "dsmynas.net",
+        "dsmynas.org",
+        "familyds.com",
+        "familyds.net",
+        "familyds.org",
+        "i234.me",
+        "myds.me",
+        "synology.me",
+        "quickconnect.cn",
+        "synology.cn"
+      ]
+    }
+  ]
+}

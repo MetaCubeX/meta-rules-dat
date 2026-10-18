@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "imperial.insendi.com",
+      "domain_suffix": [
+        "oxfordbibliographies.com",
+        "cambridge.org",
+        "cambridgeschoolshakespeare.com",
+        "cambridgedigital.net",
+        "cambridgemaths.org",
+        "opac-project.eu",
+        "livinno.org",
+        "universitypressscholarship.com",
+        "imperialbusiness.school",
+        "ukwhoswho.com",
+        "sipriyearbook.org",
+        "oxfordfirstsource.com",
+        "oxfordscholarlyeditions.com",
+        "blackstonespoliceservice.com",
+        "epigeum.com",
+        "oed.com",
+        "omscr.com",
+        "oup.com",
+        "ouplaw.com",
+        "veryshortintroductions.com",
+        "ac.uk",
+        "oxfordaasc.com",
+        "oxfordartonline.com",
+        "oxfordclinicalpsych.com",
+        "oxforddnb.com",
+        "anb.org",
+        "oxfordpoliticstrove.com",
+        "amamanualofstyle.com",
+        "oxfordmedicine.com",
+        "oxfordmusiconline.com",
+        "oxfordhandbooks.com",
+        "oxfordre.com",
+        "oxfordreference.com",
+        "oxfordlawtrove.com",
+        "oxfordscholarship.com",
+        "oxfordwesternmusic.com",
+        "dlib.eastview.com"
+      ]
+    }
+  ]
+}

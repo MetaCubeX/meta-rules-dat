@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "boylove.cc",
+        "boylove.live",
+        "boylove1.cc",
+        "boyloves.cc",
+        "fuhouse.club"
+      ]
+    }
+  ]
+}

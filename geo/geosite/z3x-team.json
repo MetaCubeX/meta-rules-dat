@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "easy-jtag.com",
+        "z3x-team.com"
+      ]
+    }
+  ]
+}

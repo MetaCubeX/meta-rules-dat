@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nbmzyl.com",
+        "auxyl.com",
+        "auxcss.com",
+        "auxgroup.com",
+        "auxshop.cn",
+        "auxshop.com",
+        "auxwy.com",
+        "auxsol.com",
+        "solarcloud.top",
+        "auxsolcloud.com",
+        "sanxing.com",
+        "nbyzfeyy.com",
+        "mzyygk.com",
+        "mzgjbj.com",
+        "mzyyfck.com",
+        "mzyygb.com",
+        "auxtelecom.com",
+        "mzyyzl.com",
+        "aux-home.com",
+        "nbmzyy.com",
+        "auxsmart.com.cn",
+        "auxauto.com.cn",
+        "shuyifuwu.com.cn",
+        "auxsolar.com.cn",
+        "aufit-air.com",
+        "aux-global.com",
+        "auxair.com",
+        "auxcac.cn",
+        "auxsmart.com",
+        "sanxingelectric.com",
+        "shinflow.com"
+      ]
+    }
+  ]
+}

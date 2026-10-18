@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "misa-prod.s3.ap-northeast-1.amazonaws.com",
+      "domain_suffix": [
+        "fansta.me",
+        "aga-expo.com",
+        "cosfans-tw.com",
+        "2023aga.oen.tw"
+      ]
+    }
+  ]
+}

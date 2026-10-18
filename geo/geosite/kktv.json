@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "kktv.me",
+        "kktv.com.tw",
+        "theater-kktv.cdn.hinet.net"
+      ]
+    }
+  ]
+}

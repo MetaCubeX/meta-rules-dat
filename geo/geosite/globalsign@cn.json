@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn.globalsigncdn.com.cdn.cloudflare.net",
+        "crl.globalsign.net"
+      ],
+      "domain_suffix": [
+        "alphassl.com",
+        "easy-signing.com",
+        "globalsign.cn",
+        "globalsign.com",
+        "globalsigncdn.com"
+      ]
+    }
+  ]
+}

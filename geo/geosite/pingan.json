@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pingan.com",
+        "yqb.com",
+        "pingan.com.cn",
+        "pingan.com.hk"
+      ]
+    }
+  ]
+}

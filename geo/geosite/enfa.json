@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "enfagrow4.com",
+        "nutramigen.pl",
+        "nutramigen.net",
+        "enfaaplus.com",
+        "enfababy.com",
+        "enfabebe.com",
+        "enspireformula.com",
+        "enfasmart.com",
+        "enfamil.pt",
+        "enfamil.pl",
+        "enfamil.es",
+        "enfamil.com",
+        "enfamil.ca",
+        "enfagrow.co.in",
+        "enfabebe.com.ve",
+        "enfagrow.com.bn",
+        "enfagrow.com.my",
+        "enfagrow.com.ph",
+        "enfagrow.com.sg",
+        "enfabebe3.com.ar",
+        "enfamama.com.ar",
+        "enfamama.com.ph",
+        "bebepremium3.com.bo",
+        "enfabebe.com.pe",
+        "enfabebe.com.mx",
+        "enfabebe.com.ec",
+        "enfabebe.com.do",
+        "enfabebe.com.co",
+        "enfabebe.com.br",
+        "enfa.com.vn",
+        "enfa.co.id"
+      ]
+    }
+  ]
+}
