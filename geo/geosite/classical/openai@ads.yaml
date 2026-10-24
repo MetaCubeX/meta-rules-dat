@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN,browser-intake-datadoghq.com
+    - DOMAIN,o33249.ingest.sentry.io
+    - DOMAIN,o33249.ingest.us.sentry.io
+    - DOMAIN,openai.qualtrics.com

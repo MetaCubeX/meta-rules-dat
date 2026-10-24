@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN,flightsimulator.azureedge.net
+    - DOMAIN-SUFFIX,asobostudio.com
+    - DOMAIN-SUFFIX,flightsimulator.com

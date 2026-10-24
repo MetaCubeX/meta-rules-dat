@@ -1,0 +1,8 @@
+payload:
+    - DOMAIN-SUFFIX,cern
+    - DOMAIN-SUFFIX,ams02.space
+    - DOMAIN-SUFFIX,cern.ch
+    - DOMAIN-SUFFIX,cixp.net
+    - DOMAIN-SUFFIX,dotcernpilot.info
+    - DOMAIN-SUFFIX,ippog.org
+    - DOMAIN-SUFFIX,linearcollider.org
