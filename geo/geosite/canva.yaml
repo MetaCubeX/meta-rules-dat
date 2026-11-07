@@ -1,0 +1,7 @@
+payload:
+    - +.affinity.studio
+    - +.canva.com
+    - +.canvastatus.com
+    - +.affinity.api.serifservices.com
+    - +.affinity-beta.s3.amazonaws.com
+    - +.affinity-lessons.s3.amazonaws.com

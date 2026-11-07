@@ -1,0 +1,6 @@
+payload:
+    - crashlyticsreports-pa.googleapis.com
+    - firebase-settings.crashlytics.com
+    - update.crashlytics.com
+    - +.cloudflareinsights-cn.com
+    - +.cloudflareinsights-cn.com
