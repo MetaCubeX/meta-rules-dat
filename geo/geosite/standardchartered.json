@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "standchartbank.sc.omtrdc.net",
+        "standchartbank.tt.omtrdc.net"
+      ],
+      "domain_suffix": [
+        "sc.com",
+        "standardchartered.com"
+      ]
+    }
+  ]
+}

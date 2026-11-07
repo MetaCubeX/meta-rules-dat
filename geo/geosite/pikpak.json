@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "o4504926511693824.ingest.sentry.io",
+      "domain_suffix": [
+        "mypikpak.com",
+        "mypikpak.net",
+        "pickpackapp.com",
+        "pikpak.io",
+        "pikpak.me",
+        "pikpakdrive.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tube8.com",
+        "tube8.fr"
+      ]
+    }
+  ]
+}

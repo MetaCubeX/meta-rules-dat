@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "airnut.com",
+        "moji.com",
+        "moji001.com",
+        "moji002.com",
+        "mojicdn.com",
+        "mojichina.com",
+        "ad.api.moji.com"
+      ]
+    }
+  ]
+}

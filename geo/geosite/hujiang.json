@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cctalk.com",
+        "hjapi.com",
+        "hjfile.cn",
+        "hujiang.com",
+        "yeshj.com"
+      ]
+    }
+  ]
+}

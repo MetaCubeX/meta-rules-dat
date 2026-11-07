@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "metrika.kontur.ru",
+        "sentry.kontur.host"
+      ],
+      "domain_suffix": [
+        "kontur-inc.com",
+        "kontur.host",
+        "kontur.ru",
+        "ktalk.host",
+        "ktalk.ru"
+      ]
+    }
+  ]
+}

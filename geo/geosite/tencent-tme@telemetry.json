@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "monitor.music.qq.com",
+        "report.tencentmusic.com",
+        "stat.y.qq.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "deutschewelle.h-cdn.com",
+      "domain_suffix": "dw.com"
+    }
+  ]
+}

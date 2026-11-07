@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "zdnet.com",
+        "9to5toys.com",
+        "appleinsider.com",
+        "digitaltrends.com",
+        "engadget.com",
+        "macrumors.com",
+        "slashdot.org",
+        "technews.tw",
+        "techradar.com",
+        "techspot.com",
+        "theverge.com",
+        "tomsguide.com",
+        "androidpolice.com",
+        "thetype.com",
+        "androidauthority.com",
+        "typeisbeautiful.com",
+        "startupschool.org",
+        "ycombinator.com",
+        "9to5google.com",
+        "9to5mac.com",
+        "9to5terminal.com",
+        "spaceexplored.com",
+        "dronedj.com",
+        "electrek.co",
+        "zdnet.redvideo.io",
+        "thetype.cloud"
+      ]
+    }
+  ]
+}

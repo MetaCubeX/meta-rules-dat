@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "blogjava.net",
+        "cnblogs.com",
+        "cnblogs.vip",
+        "cnitblog.com",
+        "cnweblog.com",
+        "cppblog.com",
+        "phpweblog.net",
+        "teachblog.net"
+      ]
+    }
+  ]
+}

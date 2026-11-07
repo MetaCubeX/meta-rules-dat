@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "ip_cidr": "2602:feda:f4::/48"
+    }
+  ]
+}

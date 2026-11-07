@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+        "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"
+      ],
+      "domain_suffix": [
+        "e5.sk",
+        "eset.com",
+        "eset.eu",
+        "eset.sk",
+        "eset.systems",
+        "esetsoftware.com",
+        "cn.eset.com"
+      ]
+    }
+  ]
+}

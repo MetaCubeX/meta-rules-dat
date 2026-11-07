@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fluxer.app",
+        "fluxer.com",
+        "fluxer.dev",
+        "fluxer.gg",
+        "fluxer.gift",
+        "fluxer.media",
+        "fluxer.tools",
+        "fluxerapp.com",
+        "fluxerstatus.com",
+        "fluxerstatic.com",
+        "fluxerusercontent.com"
+      ]
+    }
+  ]
+}

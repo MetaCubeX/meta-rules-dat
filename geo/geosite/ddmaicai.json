@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "100.me",
+        "ddcorp.net",
+        "ddfresh.net",
+        "ddimg.mobi",
+        "ddmaicai.net",
+        "ddmc.mobi",
+        "dduser.mobi",
+        "ddxq.mobi",
+        "imaicai.mobi"
+      ]
+    }
+  ]
+}

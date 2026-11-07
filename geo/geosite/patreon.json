@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "live-patreon-marketing.pantheonsite.io",
+      "domain_suffix": [
+        "patreon.com",
+        "patreoncommunity.com",
+        "patreonusercontent.com"
+      ]
+    }
+  ]
+}

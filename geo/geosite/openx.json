@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openx.net",
+        "openxadexchange.com",
+        "openxcdn.net",
+        "openxenterprise.com",
+        "openxmarket.asia"
+      ]
+    }
+  ]
+}

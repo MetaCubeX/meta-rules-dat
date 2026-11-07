@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "budingscan.com",
+        "iqoo.com",
+        "vivo.cn",
+        "vivo.com",
+        "vvstc.com",
+        "blueos.com.cn",
+        "vivo.com.cn",
+        "vivoglobal.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "visor.sberbank.ru",
+      "domain_suffix": [
+        "bps-sberbank.by",
+        "sber-bank.by",
+        "sber.ru",
+        "sberbank.com",
+        "sberbank.ru",
+        "sbrf.ru",
+        "yookassa.ru",
+        "yoomoney.ru",
+        "cplsb.ru",
+        "sberspasibo.ru",
+        "spasibo.digital",
+        "spasibo.market",
+        "spasibobonus.ru",
+        "spasibosb.ru",
+        "spasibosberbank.ru",
+        "ads.sber.ru",
+        "clickstream.sberbank.ru"
+      ]
+    }
+  ]
+}

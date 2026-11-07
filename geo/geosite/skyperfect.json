@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "skyperfectjsat.space",
+        "sptvbroadcast.com",
+        "spcc-sp.com",
+        "hominis.media",
+        "jsati.com",
+        "jsatmobile.com",
+        "skyperfectv.co.jp"
+      ]
+    }
+  ]
+}

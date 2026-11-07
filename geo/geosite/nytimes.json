@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nyt.com",
+        "nyt.net",
+        "nytchina.com",
+        "nytcn.me",
+        "nytco.com",
+        "nyti.ms",
+        "nytimes.com",
+        "nytstyle.com",
+        "timestalks.com"
+      ]
+    }
+  ]
+}
