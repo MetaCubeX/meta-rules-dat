@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ligadobra.ru",
+        "ligastavok-csr.ru",
+        "ligastavok.ru",
+        "sozvezdie-dobra.ru"
+      ]
+    }
+  ]
+}

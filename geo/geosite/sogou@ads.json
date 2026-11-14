@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "inte.sogou.com",
+        "inte.sogoucdn.com",
+        "lu.sogou.com",
+        "lu.sogoucdn.com",
+        "pb.i.sogou.com",
+        "theta.sogoucdn.com",
+        "uranus.sogou.com",
+        "wuliao.epro.sogou.com"
+      ]
+    }
+  ]
+}

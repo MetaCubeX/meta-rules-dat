@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "servd-anthropic-website.b-cdn.net",
+        "http-intake.logs.us5.datadoghq.com",
+        "o1158394.ingest.us.sentry.io"
+      ],
+      "domain_suffix": [
+        "ant.dev",
+        "anthropic.com",
+        "anthropic.team",
+        "antspace.dev",
+        "chatbotclaude.com",
+        "clau.de",
+        "claude.ai",
+        "claude.app",
+        "claude.com",
+        "claude.dev",
+        "claude.new",
+        "claude.site",
+        "claudeacademy.com",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudepages.dev",
+        "claudestudio.com",
+        "claudeusercontent.com"
+      ]
+    }
+  ]
+}

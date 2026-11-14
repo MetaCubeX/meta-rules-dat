@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ideco.dev",
+        "ideco.ru",
+        "idecosoftware.ru"
+      ]
+    }
+  ]
+}

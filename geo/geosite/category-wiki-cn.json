@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "app.moegirl.org.cn",
+        "storage.moegirl.org.cn"
+      ],
+      "domain_suffix": [
+        "allhistory.com",
+        "fgo.wiki",
+        "mbalib.com",
+        "sec-wiki.com",
+        "shidianbaike.com",
+        "chaz.fun",
+        "huijistatic.com",
+        "huijiwiki.com",
+        "mcmod.cn",
+        "pwsannong.com",
+        "qiuwenbaike.cn",
+        "qiuwen.wiki",
+        "zdic.net"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "acd89244c803f7181.awsglobalaccelerator.com",
+        "afa7f374f51cc8991.awsglobalaccelerator.com",
+        "d33wubrfki0l68.cloudfront.net"
+      ],
+      "domain_suffix": [
+        "bitballoon.com",
+        "netlify.app",
+        "netlify.com",
+        "netlifydns.com",
+        "netlifystatus.com",
+        "netlifyusercontent.com",
+        "ntl.fyi"
+      ]
+    }
+  ]
+}

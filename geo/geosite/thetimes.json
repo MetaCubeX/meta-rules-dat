@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "thetimes.ie",
+        "timesmembership.com",
+        "driving.co.uk",
+        "mytimesplus.co.uk",
+        "sportswomanoftheyear.co.uk",
+        "sportswomenoftheyear.co.uk",
+        "the-tls.co.uk",
+        "thesundaytimes.co.uk",
+        "thetimes.co.uk"
+      ]
+    }
+  ]
+}

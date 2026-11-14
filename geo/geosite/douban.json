@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "douban.com",
+        "douban.fm",
+        "doubanio.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "xyzfm.space",
+        "xyzfm.link",
+        "xyzcdn.net",
+        "xiaoyuzhoufm.com",
+        "podcast.xyz"
+      ]
+    }
+  ]
+}

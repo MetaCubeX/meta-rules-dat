@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "coolbuy.com",
+        "ifanr.cn",
+        "ifanr.com",
+        "ifanr.in",
+        "ifanrusercontent.com",
+        "ifanrx.com",
+        "minapp.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ds-servers.com",
+        "dsn.host",
+        "dsncdn.net"
+      ]
+    }
+  ]
+}

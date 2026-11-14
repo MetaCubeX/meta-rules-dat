@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "dc.applicationinsights.azure.com",
+        "live.applicationinsights.azure.com"
+      ],
+      "domain_suffix": "in.applicationinsights.azure.com"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "c-t.work",
+        "cowcs.com",
+        "cowtransfer.com"
+      ]
+    }
+  ]
+}

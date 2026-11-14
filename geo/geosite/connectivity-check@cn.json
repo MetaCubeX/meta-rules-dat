@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "www.gstatic.com",
+        "connectivitycheck.platform.hihonorcloud.com",
+        "connectivitycheck.platform.hicloud.com",
+        "connect.rom.miui.com",
+        "conn1.oppomobile.com",
+        "conn2.oppomobile.com",
+        "www.qualcomm.cn",
+        "connectivity.samsung.com.cn",
+        "wifi.vivo.com.cn"
+      ],
+      "domain_suffix": "captive.apple.com"
+    }
+  ]
+}
