@@ -1,0 +1,22 @@
+payload:
+    - DOMAIN-SUFFIX,ad.api.3g.youku.com
+    - DOMAIN-SUFFIX,ad.api.mobile.youku.com
+    - DOMAIN-SUFFIX,ad.mobile.youku.com
+    - DOMAIN-SUFFIX,adashx.ut.youku.com
+    - DOMAIN-SUFFIX,atm.youku.com
+    - DOMAIN-SUFFIX,e.stat.ykimg.com
+    - DOMAIN-SUFFIX,ems.youku.com
+    - DOMAIN-SUFFIX,guanggaoad.youku.com
+    - DOMAIN-SUFFIX,h-adashx.ut.youku.com
+    - DOMAIN-SUFFIX,lstat.youku.com
+    - DOMAIN-SUFFIX,mobilemsg.youku.com
+    - DOMAIN-SUFFIX,msg.youku.com
+    - DOMAIN-SUFFIX,p-log.ykimg.com
+    - DOMAIN-SUFFIX,passport-log.youku.com
+    - DOMAIN-SUFFIX,pl.youku.com
+    - DOMAIN-SUFFIX,s-adashx.ut.youku.com
+    - DOMAIN-SUFFIX,stat.youku.com
+    - DOMAIN-SUFFIX,statis.api.3g.youku.com
+    - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+    - DOMAIN-SUFFIX,yk-ssp.ad.youku.com
+    - DOMAIN-SUFFIX,ykad-data.youku.com

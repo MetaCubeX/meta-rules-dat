@@ -1,0 +1,25 @@
+payload:
+    - DOMAIN-SUFFIX,ad.sina.com.cn
+    - DOMAIN-SUFFIX,ad.us.sinaimg.cn
+    - DOMAIN-SUFFIX,adbox.sina.com.cn
+    - DOMAIN-SUFFIX,adimg.mobile.sina.cn
+    - DOMAIN-SUFFIX,adimg.uve.weibo.com
+    - DOMAIN-SUFFIX,ads.sina.com
+    - DOMAIN-SUFFIX,alitui.weibo.com
+    - DOMAIN-SUFFIX,beacon.sina.com.cn
+    - DOMAIN-SUFFIX,biz.weibo.com
+    - DOMAIN-SUFFIX,click.uve.mobile.sina.cn
+    - DOMAIN-SUFFIX,click.uve.weibo.com
+    - DOMAIN-SUFFIX,log.mix.sina.com.cn
+    - DOMAIN-SUFFIX,log.sina.cn
+    - DOMAIN-SUFFIX,log2.sina.cn
+    - DOMAIN-SUFFIX,mixer.sina.cn
+    - DOMAIN-SUFFIX,p4p.sina.com.cn
+    - DOMAIN-SUFFIX,rs.sinajs.cn
+    - DOMAIN-SUFFIX,sa.sina.cn
+    - DOMAIN-SUFFIX,sbeacon.sina.com.cn
+    - DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
+    - DOMAIN-SUFFIX,slog.sina.cn
+    - DOMAIN-SUFFIX,slog.sina.com.cn
+    - DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
+    - DOMAIN-SUFFIX,wbclick.mobile.sina.cn

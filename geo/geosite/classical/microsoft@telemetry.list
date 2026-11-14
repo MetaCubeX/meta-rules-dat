@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com

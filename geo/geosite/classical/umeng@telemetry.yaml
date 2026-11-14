@@ -1,0 +1,10 @@
+payload:
+    - DOMAIN-SUFFIX,alog.umeng.com
+    - DOMAIN-SUFFIX,alog.umengcloud.com
+    - DOMAIN-SUFFIX,alogs.umeng.com
+    - DOMAIN-SUFFIX,alogus.umeng.com
+    - DOMAIN-SUFFIX,cnlogs.umeng.com
+    - DOMAIN-SUFFIX,cnlogs.umengcloud.com
+    - DOMAIN-SUFFIX,plbslog.umeng.com
+    - DOMAIN-SUFFIX,ulogs.umeng.com
+    - DOMAIN-SUFFIX,ulogs.umengcloud.com

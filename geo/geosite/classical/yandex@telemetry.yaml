@@ -1,0 +1,19 @@
+payload:
+    - DOMAIN-SUFFIX,appmetrica.yandex.com
+    - DOMAIN-SUFFIX,appmetrica.yandex.net
+    - DOMAIN-SUFFIX,appmetrica.yandex.ru
+    - DOMAIN-SUFFIX,appmetrica.yango.com
+    - DOMAIN-SUFFIX,counter.yandex.ru
+    - DOMAIN-SUFFIX,mc.yandex.ru
+    - DOMAIN-SUFFIX,metrika.yandex.com
+    - DOMAIN-SUFFIX,metrika.yandex.net
+    - DOMAIN-SUFFIX,metrika.yandex.ru
+    - DOMAIN-SUFFIX,webvisor.com
+    - DOMAIN-SUFFIX,webvisor.org
+    - DOMAIN-SUFFIX,yandex-metrica.ru
+    - DOMAIN-SUFFIX,yandexmetrica.com
+    - DOMAIN,analytics.mobile.yandex.net
+    - DOMAIN,log.strm.yandex.ru
+    - DOMAIN,mc.yandex.com
+    - DOMAIN,mc.yandex.net
+    - DOMAIN,mc.yango.com

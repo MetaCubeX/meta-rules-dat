@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN-SUFFIX,avito.com
+    - DOMAIN-SUFFIX,avito.ru
+    - DOMAIN-SUFFIX,avito.st
+    - DOMAIN-SUFFIX,avito.tech
+    - DOMAIN,stats.avito.ru

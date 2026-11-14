@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN-SUFFIX,cloudflareinsights.com
+    - DOMAIN-SUFFIX,cloudflareinsights-cn.com

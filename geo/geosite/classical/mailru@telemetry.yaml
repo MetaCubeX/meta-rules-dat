@@ -1,0 +1,15 @@
+payload:
+    - DOMAIN-SUFFIX,apptracer.ru
+    - DOMAIN-SUFFIX,metrics.viqeo.tv
+    - DOMAIN,sentry-ng.g.smailru.net
+    - DOMAIN,srch-telemeter10.g.smailru.net
+    - DOMAIN,sentry.dev-my.com
+    - DOMAIN,sentry.dev-my.games
+    - DOMAIN,sentry.rustore.ru
+    - DOMAIN,sentry.viqeo.tv
+    - DOMAIN,stats.dahlmessenger.com
+    - DOMAIN,stats.dev.telega.info
+    - DOMAIN,stats.rustore.ru
+    - DOMAIN,stats.telega.info
+    - DOMAIN-SUFFIX,log.dzen.ru
+    - DOMAIN,stats.vk-portal.net

@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN,apple-relay.apple.com
+    - DOMAIN,apple-relay.cloudflare.com
+    - DOMAIN,apple-relay.fastly-edge.com
+    - DOMAIN,apple-relay.mask.apple-dns.net
+    - DOMAIN,gspe1-ssl.ls.apple.com

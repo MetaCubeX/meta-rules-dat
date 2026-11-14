@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+DOMAIN,redirector.c.play.google.com
