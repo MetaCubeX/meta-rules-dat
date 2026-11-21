@@ -1,0 +1,13 @@
+payload:
+    - DOMAIN,nix-community.github.io
+    - DOMAIN-SUFFIX,nix.dev
+    - DOMAIN-SUFFIX,nix.store
+    - DOMAIN-SUFFIX,nixcon.org
+    - DOMAIN-SUFFIX,nixcon2017.org
+    - DOMAIN-SUFFIX,nixlang.com
+    - DOMAIN-SUFFIX,nixos.org
+    - DOMAIN-SUFFIX,nixpkgs.org
+    - DOMAIN-SUFFIX,builtwithnix.org
+    - DOMAIN-SUFFIX,mynixos.com
+    - DOMAIN-SUFFIX,nix-community.org
+    - DOMAIN-SUFFIX,nixos.wiki

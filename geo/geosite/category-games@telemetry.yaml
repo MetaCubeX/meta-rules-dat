@@ -1,0 +1,5 @@
+payload:
+    - +.log-upload.mihoyo.com
+    - sentry.ppy.sh
+    - +.insights-collector.gog.com
+    - +.log-upload-os.hoyoverse.com

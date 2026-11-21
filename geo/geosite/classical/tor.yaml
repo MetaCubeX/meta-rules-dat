@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,exit
+    - DOMAIN-SUFFIX,onion
+    - DOMAIN-SUFFIX,tor

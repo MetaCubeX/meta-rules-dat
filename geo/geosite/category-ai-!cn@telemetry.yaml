@@ -1,0 +1,8 @@
+payload:
+    - browser-intake-datadoghq.com
+    - o33249.ingest.sentry.io
+    - o33249.ingest.us.sentry.io
+    - http-intake.logs.us5.datadoghq.com
+    - o1158394.ingest.us.sentry.io
+    - copilot-telemetry-service.githubusercontent.com
+    - copilot-telemetry.githubusercontent.com

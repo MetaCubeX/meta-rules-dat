@@ -1,0 +1,15 @@
+payload:
+    - DOMAIN,crashlyticsreports-pa.googleapis.com
+    - DOMAIN,firebase-settings.crashlytics.com
+    - DOMAIN,firebaselogging-pa.googleapis.com
+    - DOMAIN,firebaselogging.googleapis.com
+    - DOMAIN,update.crashlytics.com
+    - DOMAIN-SUFFIX,cafe.github.com
+    - DOMAIN-SUFFIX,collector.github.com
+    - DOMAIN,copilot-telemetry-service.githubusercontent.com
+    - DOMAIN,copilot-telemetry.githubusercontent.com
+    - DOMAIN,dc.services.visualstudio.com
+    - DOMAIN,rt.services.visualstudio.com
+    - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+    - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+    - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com

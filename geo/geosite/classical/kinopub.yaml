@@ -1,0 +1,20 @@
+payload:
+    - DOMAIN-SUFFIX,teleos.club
+    - DOMAIN-SUFFIX,support-kp.com
+    - DOMAIN-SUFFIX,kinopub.online
+    - DOMAIN-SUFFIX,kpdl.link
+    - DOMAIN-SUFFIX,ahc.ovh
+    - DOMAIN-SUFFIX,gfw.ovh
+    - DOMAIN-SUFFIX,tsx.ovh
+    - DOMAIN-SUFFIX,mos-gorsud.co
+    - DOMAIN-SUFFIX,kino.watch
+    - DOMAIN-SUFFIX,smarttvcdn.online
+    - DOMAIN-SUFFIX,pushbr.com
+    - DOMAIN-SUFFIX,srvkp.com
+    - DOMAIN-SUFFIX,kino.pub
+    - DOMAIN-SUFFIX,cdn-service.space
+    - DOMAIN-SUFFIX,cdn2cdn.com
+    - DOMAIN-SUFFIX,cdn2site.com
+    - DOMAIN-SUFFIX,m.alador.space
+    - DOMAIN-SUFFIX,api.alador.space
+    - DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

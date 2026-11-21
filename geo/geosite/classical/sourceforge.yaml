@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN-SUFFIX,sourceforge.com
+    - DOMAIN-SUFFIX,sourceforge.net
+    - DOMAIN-SUFFIX,sf.net
+    - DOMAIN-SUFFIX,fsdn.com

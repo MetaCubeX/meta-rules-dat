@@ -1,0 +1,16 @@
+payload:
+    - DOMAIN,ads3-normal-hl.zijieapi.com
+    - DOMAIN,ads3-normal.zijieapi.com
+    - DOMAIN,ads5-normal-hl.zijieapi.com
+    - DOMAIN,ads5-normal.zijieapi.com
+    - DOMAIN,log3-applog-hl.fqnovel.com
+    - DOMAIN,log3-applog.fqnovel.com
+    - DOMAIN,log5-applog-hl.fqnovel.com
+    - DOMAIN,log5-applog.fqnovel.com
+    - DOMAIN,p3-ad-sign.byteimg.com
+    - DOMAIN,p6-ad-sign.byteimg.com
+    - DOMAIN,p9-ad-sign.byteimg.com
+    - DOMAIN,rtlog3-applog-hl.fqnovel.com
+    - DOMAIN,rtlog3-applog.fqnovel.com
+    - DOMAIN,rtlog5-applog-hl.fqnovel.com
+    - DOMAIN,rtlog5-applog.fqnovel.com

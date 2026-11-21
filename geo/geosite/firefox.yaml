@@ -1,0 +1,9 @@
+payload:
+    - mozilla-ohttp.fastly-edge.com
+    - mozilla.map.fastly.net
+    - +.extendfirefox.com
+    - +.firefox-portal-detection.com
+    - +.firefox.com
+    - +.firefox.hu
+    - +.firefoxtweetmachine.com
+    - +.firefoxusercontent.com
