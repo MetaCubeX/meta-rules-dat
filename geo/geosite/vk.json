@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "adblogger.vk.com",
+        "adblogger.vk.ru",
+        "ads.vk.com",
+        "ads.vk.ru",
+        "adv.vk.ru",
+        "advk.vk.ru",
+        "analytics.vk.ru",
+        "stats.vk-portal.net",
+        "target.vk.com"
+      ],
+      "domain_suffix": [
+        "mvk.com",
+        "vk.cc",
+        "vk.com",
+        "vk.design",
+        "vk.link",
+        "vk.ru",
+        "vkontakte.com",
+        "vkontakte.ru",
+        "cdn-vk.net",
+        "cdn-vk.ru",
+        "userapi.com",
+        "userapi.ru",
+        "vk-cdn.me",
+        "vk-cdn.net",
+        "vk-portal.net",
+        "vkcache.com",
+        "vkcdnservice.com",
+        "vkcloud-static.ru",
+        "vktech-static.ru",
+        "vkuser.net",
+        "vkusercdn.ru",
+        "vkuserphoto.ru",
+        "vkuseraudio.com",
+        "vkuseraudio.net",
+        "vkuseraudio.ru",
+        "vkuserlive.com",
+        "vkuserlive.net",
+        "vkuservideo.com",
+        "vkuservideo.net",
+        "vkuservideo.ru",
+        "vk.me",
+        "vkmessenger.app",
+        "vkmessenger.com",
+        "vkpay.app",
+        "vkpay.com",
+        "vkpay.io",
+        "vkpay.ru",
+        "adv.vk.com",
+        "analytics.vk.com",
+        "ms.vk.com",
+        "ms.vk.ru",
+        "target.vk.ru",
+        "vk-analytics.ru"
+      ]
+    }
+  ]
+}

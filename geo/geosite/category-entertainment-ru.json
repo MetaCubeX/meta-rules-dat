@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "kp-config-smart-tv.akamaized.net",
+        "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "promodj.com",
+        "rutube.ru",
+        "kinescopecdn.net",
+        "trbcdn.net",
+        "kinorium.com",
+        "24h.tv",
+        "amediateka.ru",
+        "beeline.tv",
+        "ivi.ru",
+        "ivi.tv",
+        "ivicdn.tv",
+        "premier.one",
+        "smotreshka.tv",
+        "start.ru",
+        "tvigle.ru",
+        "viju.ru",
+        "cdnvideohub.com",
+        "rutubelist.ru",
+        "cdnvideo.ru",
+        "rtbcdn.ru",
+        "rutube.sport",
+        "kinopoisk.ru",
+        "wink.ru",
+        "wink.am",
+        "okkoapi.tv",
+        "playfamily.ru",
+        "okko.sport",
+        "okko.tv",
+        "restream-media.net",
+        "restream.ru",
+        "more.tv",
+        "kp.yandex.net",
+        "kinopoisk-ru.clstorage.net"
+      ]
+    }
+  ]
+}

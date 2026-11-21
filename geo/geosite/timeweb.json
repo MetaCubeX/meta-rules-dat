@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "timeweb.cloud",
+        "timeweb.com",
+        "timeweb.tech",
+        "timewebcloud.kz",
+        "twcstorage.ru"
+      ]
+    }
+  ]
+}

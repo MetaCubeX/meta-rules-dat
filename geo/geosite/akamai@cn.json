@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "accdn.com.cn",
+        "akadns88.net",
+        "akadns99.net",
+        "akamai.com",
+        "akcdn.com.cn",
+        "aptdn.net",
+        "edgekey88.net",
+        "janrain.biz",
+        "janrainservices.com",
+        "skycdn.com.cn",
+        "tl88.net"
+      ]
+    }
+  ]
+}

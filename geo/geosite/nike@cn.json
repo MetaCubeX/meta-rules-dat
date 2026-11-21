@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "just-do-it.cn",
+        "nike-shox.cn",
+        "nike.cn",
+        "nikebetterworld.cn",
+        "nikebetterworld.com.cn",
+        "nikechina.cn",
+        "nikegolf.cn",
+        "nikeid.cn",
+        "nikeid.com.cn",
+        "nikeinc.com.cn",
+        "nikelab.cn",
+        "nikelab.com.cn",
+        "nikeliuxiang.cn",
+        "nikeliuxiang.com.cn",
+        "nikemall.cn",
+        "nikemall.com.cn",
+        "nikerunclub.cn",
+        "nikerunclub.com.cn",
+        "nikerunning.com.cn",
+        "nikestore.cn"
+      ]
+    }
+  ]
+}

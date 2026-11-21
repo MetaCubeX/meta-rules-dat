@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pgyer.com",
+        "tracup.com",
+        "frontjs.com"
+      ]
+    }
+  ]
+}

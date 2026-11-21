@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fa-part.com",
+        "forface3d.com",
+        "jlc-3dp.cn",
+        "jlc-3dp.com",
+        "jlc-bbs.com",
+        "jlc-cad.com",
+        "jlc-cam.com",
+        "jlc-cnc.com",
+        "jlc-dfm.com",
+        "jlc-drm.com",
+        "jlc-ecad.com",
+        "jlc-erp.com",
+        "jlc-fpc.com",
+        "jlc-gw.com",
+        "jlc-jh.com",
+        "jlc-layout.com",
+        "jlc-pcb.com",
+        "jlc-smt.com",
+        "jlc-zh.com",
+        "jlc.com",
+        "jlc3dp.cn",
+        "jlccad.com",
+        "jlccam.com",
+        "jlccnc.com",
+        "jlcdfm.com",
+        "jlcecad.com",
+        "jlceda.cn",
+        "jlceda.com",
+        "jlcerp.com",
+        "jlcfa.com",
+        "jlcgroup.cn",
+        "jlcops.com",
+        "jlcsj.com",
+        "jlcsmt.com",
+        "lceda.cn",
+        "lckfb.com",
+        "oshwhub.com",
+        "sanweihou.com",
+        "sz-jlc.com",
+        "szjlc.cn",
+        "szlcsc.com",
+        "zs-jlc.com",
+        "zxhgroup.com"
+      ]
+    }
+  ]
+}

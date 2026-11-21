@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tokyo-tosho.net",
+        "tokyotosho.info",
+        "tokyotosho.se"
+      ]
+    }
+  ]
+}

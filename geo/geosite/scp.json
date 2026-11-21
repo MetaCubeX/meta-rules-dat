@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "scp-wiki.net",
+        "scpdb.org",
+        "scpwiki.com"
+      ]
+    }
+  ]
+}

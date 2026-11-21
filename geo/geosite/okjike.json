@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jike.city",
+        "jikecdn.com",
+        "okjike.com",
+        "okjk.co",
+        "ruguoapp.com"
+      ]
+    }
+  ]
+}

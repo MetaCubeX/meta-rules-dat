@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "wamawama.com",
+        "wiwide.com"
+      ]
+    }
+  ]
+}

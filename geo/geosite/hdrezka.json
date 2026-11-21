@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "rezka.ag",
+        "rezka.fi",
+        "hdrezka.ag",
+        "hdrezka.cm",
+        "hdrezka.co",
+        "hdrezka.me",
+        "hdrezka.ac",
+        "hdrezka.org",
+        "hdrezka-home.tv",
+        "hdrezka.site",
+        "statichdrezka.ac",
+        "hdrzk.org",
+        "voidslam.org",
+        "stream.voidboost.cc",
+        "stream.voidboost.one",
+        "static.voidboost.com"
+      ]
+    }
+  ]
+}

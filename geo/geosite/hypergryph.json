@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hgto.cc",
+        "hypergryph.cn",
+        "hypergryph.com",
+        "hypergryph.net",
+        "hycdn.cn",
+        "hycdn.com",
+        "arknights.com",
+        "skland.com",
+        "skland.net",
+        "octavedge.com",
+        "hypergryph.com.cn",
+        "arknights.com.cn",
+        "gryphline.cn",
+        "gryphline.com",
+        "gryphline.com.cn",
+        "gryphline.net",
+        "hg-cdn.com",
+        "skport.com"
+      ]
+    }
+  ]
+}

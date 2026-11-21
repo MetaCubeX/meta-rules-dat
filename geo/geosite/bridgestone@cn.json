@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bridgestone.cn",
+        "bridgestone.com.cn",
+        "nokiantyres.cn"
+      ]
+    }
+  ]
+}

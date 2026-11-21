@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "analytics.cloud.unity3d.com",
+        "perf.cloud.unity3d.com",
+        "perf-events.cloud.unity3d.com"
+      ]
+    }
+  ]
+}

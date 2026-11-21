@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bisq.io",
+        "bisq.network",
+        "bitsquare.io"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bcicdn.com",
+        "bcrncdn.com",
+        "bcvcdn.com",
+        "bgicdn.com",
+        "bongacams.com"
+      ]
+    }
+  ]
+}

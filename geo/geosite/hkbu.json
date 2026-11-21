@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkbu.hk",
+        "xn--pssu7ci3q5oge0ai91q.xn--j6w193g",
+        "hkbu.edu.hk"
+      ]
+    }
+  ]
+}

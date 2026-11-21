@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "legendofzelda.cn",
+        "legendofzelda.com.cn",
+        "miitomo.com.cn",
+        "nintendolabo.cn",
+        "nintendoswitch.cn",
+        "nintendoswitch.com.cn",
+        "supersmashbros.cn",
+        "supersmashbros.com.cn",
+        "xn--mts47c3w9b1qr.cn",
+        "mariokart.cn",
+        "mariokart.com.cn",
+        "supermariobros.com.cn"
+      ]
+    }
+  ]
+}
