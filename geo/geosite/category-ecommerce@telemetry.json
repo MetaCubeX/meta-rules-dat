@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "sentry.ozon.ru",
+        "analytics-stage.wildberries.ru",
+        "analytics.wildberries.ru",
+        "marketplace-sentry.wb.ru",
+        "sentry.wb.ru",
+        "web-analytics.wildberries.ru",
+        "stats.avito.ru"
+      ]
+    }
+  ]
+}

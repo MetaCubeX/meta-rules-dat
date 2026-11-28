@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdpred.services",
+        "cdprojekt.com",
+        "cdprojekt.red",
+        "cdprojektred.com",
+        "cyberpunk.net",
+        "playgwent.com",
+        "thewitcher.com"
+      ]
+    }
+  ]
+}

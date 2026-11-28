@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "applecensorship.com",
+        "freebrowser.org",
+        "freewechat.com",
+        "freeweibo.com",
+        "freezhihu.org",
+        "googlecensorship.org",
+        "googleplaycensorship.com",
+        "greatfire.org",
+        "greatfirevpn.com",
+        "manyvoices.news",
+        "pao-pao.net",
+        "wikiunblocked.org"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "readthedocs-hosted.com",
+        "readthedocs.com",
+        "readthedocs.io",
+        "readthedocs.org"
+      ]
+    }
+  ]
+}

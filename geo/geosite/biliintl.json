@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bstarstatic.com",
+        "bilibili.tv",
+        "biliintl.com",
+        "upos-bstar1-mirrorakam.akamaized.net",
+        "apm-misaka.biliapi.net",
+        "p-bstarstatic.akamaized.net",
+        "upos-bstar-mirrorakam.akamaized.net",
+        "upos-sz-mirrorcosbstar1.bilivideo.com",
+        "upos-sz-mirroralibstar1.bilivideo.com",
+        "app.global.bilibili.com",
+        "api.global.bilibili.com"
+      ]
+    }
+  ]
+}

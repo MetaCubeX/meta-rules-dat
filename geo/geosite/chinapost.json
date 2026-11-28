@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cptu.cn",
+        "chnppmuseum.com",
+        "postmail.cn",
+        "ctvpost.com",
+        "ulecdn.com",
+        "chinapost-life.com",
+        "ule.com",
+        "psbc.com",
+        "chinapost.cn",
+        "chinapostnews.cn",
+        "11185.cn",
+        "cnpsec.com",
+        "chinapost.com.cn",
+        "cptu.org.cn",
+        "postoa.com.cn",
+        "chinapostnews.com.cn",
+        "chinapostdaily.com.cn",
+        "ems.com.cn",
+        "11183.com.cn"
+      ]
+    }
+  ]
+}

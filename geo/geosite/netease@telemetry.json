@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "analytics.163.com",
+        "crash.163.com",
+        "crashlytics.163.com",
+        "sentry.music.163.com"
+      ]
+    }
+  ]
+}

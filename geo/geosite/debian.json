@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "debian.org",
+        "dotdeb.org",
+        "debian.map.fastlydns.net"
+      ]
+    }
+  ]
+}

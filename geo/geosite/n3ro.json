@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "n3ro.lol",
+        "n3ro.net",
+        "n3ro.wtf"
+      ]
+    }
+  ]
+}

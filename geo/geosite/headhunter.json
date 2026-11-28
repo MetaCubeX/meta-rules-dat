@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hh.by",
+        "hh.kz",
+        "hh.ru",
+        "hhcdn.ru",
+        "rabota.by",
+        "setka.ru",
+        "talantix.ru",
+        "zarplata.ru"
+      ]
+    }
+  ]
+}

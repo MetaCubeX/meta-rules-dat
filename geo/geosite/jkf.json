@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jkf.net",
+        "jkface.net",
+        "jkforum.net",
+        "jr24h.com",
+        "jvid.com"
+      ]
+    }
+  ]
+}

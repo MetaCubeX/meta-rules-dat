@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkt",
+        "hkt.com",
+        "esmarthealth.com",
+        "hkcsl.com",
+        "hkt-enterprise.com",
+        "hkt-eye.com",
+        "hkteducation.com",
+        "hktpremier.com",
+        "hktshop.com",
+        "netvigator.com",
+        "uhub.com",
+        "1010.com.hk",
+        "theclub.com.hk"
+      ]
+    }
+  ]
+}

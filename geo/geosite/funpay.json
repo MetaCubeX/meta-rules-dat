@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "funpay.com",
+        "funpay.ru",
+        "sfunpay.com"
+      ]
+    }
+  ]
+}

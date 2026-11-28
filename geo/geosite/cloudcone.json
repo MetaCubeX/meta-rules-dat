@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "clco.cc",
+        "cloudc.one",
+        "cloudcone.com",
+        "cloudcone.net"
+      ]
+    }
+  ]
+}

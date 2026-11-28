@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "polyu.hk",
+        "cuhk.hk",
+        "eduhk.hk",
+        "xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g",
+        "xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g",
+        "hkbu.hk",
+        "xn--pssu7ci3q5oge0ai91q.xn--j6w193g",
+        "xn--fiq80y3xbiwrs0kiu9d.hk",
+        "hku.hk",
+        "xn--pssu7cv61af44b.hk",
+        "xn--pssu7cv61af44b.xn--j6w193g",
+        "xn--fiq80y3xbiwr.xn--j6w193g",
+        "hkust.hk",
+        "xn--pssu7ci2j23mp9ny48b.hk",
+        "xn--pssu7ci2j23mp9ny48b.xn--j6w193g",
+        "xn--fiq80y3xbiwr.hk",
+        "xn--wcvs22d.xn--j6w193g",
+        "xn--fiq80y.xn--j6w193g",
+        "edu.hk",
+        "xn--fiq80y.hk",
+        "xn--uis44a.xn--j6w193g",
+        "cityu.hk"
+      ]
+    }
+  ]
+}

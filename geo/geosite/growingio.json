@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "datayi.cn",
+        "gio.ren",
+        "giocdn.com",
+        "growin.cn",
+        "growingio.cn",
+        "growingio.com"
+      ]
+    }
+  ]
+}

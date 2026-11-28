@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api.viu.now.com",
+        "dfp6rglgjqszk.cloudfront.net",
+        "d1k2us671qcoau.cloudfront.net",
+        "d2anahhhmp1ffz.cloudfront.net"
+      ],
+      "domain_suffix": [
+        "viu.tv",
+        "viu.com"
+      ],
+      "domain_regex": "^ewcdn[0-9]+\\.nowe\\.com$"
+    }
+  ]
+}

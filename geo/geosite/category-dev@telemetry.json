@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "dc.services.visualstudio.com",
+        "rt.services.visualstudio.com",
+        "copilot-telemetry-service.githubusercontent.com",
+        "copilot-telemetry.githubusercontent.com",
+        "crashlyticsreports-pa.googleapis.com",
+        "firebase-settings.crashlytics.com",
+        "firebaselogging-pa.googleapis.com",
+        "firebaselogging.googleapis.com",
+        "update.crashlytics.com"
+      ],
+      "domain_suffix": [
+        "analytics.cloud.unity3d.com",
+        "perf.cloud.unity3d.com",
+        "perf-events.cloud.unity3d.com",
+        "cafe.github.com",
+        "collector.github.com"
+      ]
+    }
+  ]
+}
