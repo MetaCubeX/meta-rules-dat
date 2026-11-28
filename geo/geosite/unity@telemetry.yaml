@@ -1,0 +1,4 @@
+payload:
+    - +.analytics.cloud.unity3d.com
+    - +.perf.cloud.unity3d.com
+    - +.perf-events.cloud.unity3d.com

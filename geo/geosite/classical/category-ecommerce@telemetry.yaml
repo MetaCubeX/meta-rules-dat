@@ -1,0 +1,8 @@
+payload:
+    - DOMAIN,sentry.ozon.ru
+    - DOMAIN,analytics-stage.wildberries.ru
+    - DOMAIN,analytics.wildberries.ru
+    - DOMAIN,marketplace-sentry.wb.ru
+    - DOMAIN,sentry.wb.ru
+    - DOMAIN,web-analytics.wildberries.ru
+    - DOMAIN,stats.avito.ru

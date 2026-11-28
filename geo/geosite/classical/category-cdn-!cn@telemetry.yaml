@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,akstat.io
+    - DOMAIN-SUFFIX,cloudflareinsights.com
+    - DOMAIN-SUFFIX,cloudflareinsights-cn.com

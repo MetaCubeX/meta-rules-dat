@@ -1,0 +1,6 @@
+payload:
+    - DOMAIN-SUFFIX,docs.rw
+    - DOMAIN-SUFFIX,log.rw
+    - DOMAIN-SUFFIX,remna.dev
+    - DOMAIN-SUFFIX,remna.st
+    - DOMAIN-SUFFIX,try.rw

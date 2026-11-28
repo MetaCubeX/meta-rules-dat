@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN-SUFFIX,ds-servers.com
+    - DOMAIN-SUFFIX,dsn.host
+    - DOMAIN-SUFFIX,dsncdn.net

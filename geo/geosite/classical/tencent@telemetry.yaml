@@ -1,0 +1,19 @@
+payload:
+    - DOMAIN-SUFFIX,beacon.cdn.qq.com
+    - DOMAIN-SUFFIX,beacon.qq.com
+    - DOMAIN-SUFFIX,beaconcdn.qq.com
+    - DOMAIN-SUFFIX,btrace.qq.com
+    - DOMAIN-SUFFIX,bugly.qq.com
+    - DOMAIN-SUFFIX,htrace.wetvinfo.com
+    - DOMAIN-SUFFIX,log.tbs.qq.com
+    - DOMAIN-SUFFIX,monitor.uu.qq.com
+    - DOMAIN-SUFFIX,mtrace.qq.com
+    - DOMAIN-SUFFIX,report.qqweb.qq.com
+    - DOMAIN-SUFFIX,rmonitor.qq.com
+    - DOMAIN-SUFFIX,sngmta.qq.com
+    - DOMAIN-SUFFIX,tpstelemetry.tencent.com
+    - DOMAIN-SUFFIX,trace.qq.com
+    - DOMAIN-SUFFIX,monitor.music.qq.com
+    - DOMAIN-SUFFIX,report.tencentmusic.com
+    - DOMAIN-SUFFIX,stat.y.qq.com
+    - DOMAIN-SUFFIX,badjs.weixinbridge.com
